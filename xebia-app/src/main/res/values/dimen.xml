@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_size">50dp</dimen>
+    <dimen name="ul_margin">20dp</dimen>
+    <dimen name="h1_margin_top">25dp</dimen>
+    <dimen name="h1_margin_bottom">10dp</dimen>
+    <dimen name="h2_margin_top">25dp</dimen>
+    <dimen name="h2_margin_bottom">10dp</dimen>
+    <dimen name="h3_margin_top">25dp</dimen>
+    <dimen name="h3_margin_bottom">10dp</dimen>
+    <dimen name="header_height">230dp</dimen>
+    <dimen name="header_logo_size">100dp</dimen>
+</resources>

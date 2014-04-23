@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<uk.co.senab.actionbarpulltorefresh.library.PullToRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/blog_ptr_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ECECEC"
+    >
+
+
+    <ListView
+        android:id="@+id/blog_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:divider="@null"
+        android:dividerHeight="16dp"
+        android:fadingEdge="none"
+        android:paddingTop="0dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_marginTop="0dp"
+        android:scrollbarStyle="outsideOverlay"
+        />
+
+
+    <FrameLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_height"
+        >
+
+        <fr.xebia.app.view.KenBurnsView
+            android:id="@+id/header_picture"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+        <ImageView
+            android:id="@+id/header_logo"
+            android:layout_width="@dimen/header_logo_size"
+            android:layout_height="@dimen/header_logo_size"
+            android:layout_gravity="center"
+            android:src="@drawable/logo_blog_xebia"
+            />
+
+    </FrameLayout>
+
+</uk.co.senab.actionbarpulltorefresh.library.PullToRefreshLayout>

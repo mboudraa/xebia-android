@@ -1,0 +1,62 @@
+<resources>
+
+    <style name="AppDefaultTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="ptrHeaderStyle">@style/Widget.Custom.PtrHeader</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle.Xebia</item>
+    </style>
+
+
+    <style name="AppTransparentTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle.Xebia.Transparent</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="ptrHeaderStyle">@style/Widget.Custom.PtrHeader</item>
+    </style>
+
+
+    <style name="ActionBarStyle.Xebia" parent="@android:Widget.ActionBar">
+        <item name="android:background">@color/xebia</item>
+        <item name="android:titleTextStyle">@style/ActionBarStyle.Xebia.TitleTextStyle</item>
+    </style>
+
+    <style name="ActionBarStyle.Xebia.Transparent">
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="ActionBarStyle.Xebia.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+    <style name="Widget.Custom.PtrHeader" parent="android:Widget">
+        <!-- The background of the header view -->
+        <item name="ptrHeaderBackground">@color/xebia</item>
+
+        <!-- The height of the header view. Please note, only set if in you really need to -->
+        <item name="ptrHeaderHeight">@dimen/header_height</item>
+
+        <!-- TextAppearance of the header view's title text -->
+        <item name="ptrHeaderTitleTextAppearance">@style/TextAppearance.Custom.PtrHeader.Title</item>
+
+        <!-- Color to tint the progress bar -->
+        <item name="ptrProgressBarColor">@color/xebia</item>
+
+        <!-- Radius of the progress bar corners -->
+        <!--<item name="ptrProgressBarCornerRadius">4dp</item>-->
+
+        <!-- Style of the Progress Bar. Values are either: inside or outside -->
+        <!--<item name="ptrProgressBarStyle">...</item>-->
+
+        <!-- The strings to be displayed at the various states -->
+        <!--<item name="ptrPullText">@null</item>-->
+        <!--<item name="ptrRefreshingText">@null</item>-->
+        <!--<item name="ptrReleaseText">@null</item>-->
+    </style>
+
+    <style name="TextAppearance.Custom.PtrHeader.Title"
+           parent="android:TextAppearance.Large.Inverse">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>

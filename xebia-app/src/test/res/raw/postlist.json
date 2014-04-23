@@ -1,0 +1,4058 @@
+{
+    count: 50,
+    pages: 28.86,
+    total: 1393,
+    posts: [
+        {
+            id: 17993,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17990,
+                    parent: 17993,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "devoxx-android-qr.png",
+                    slug: "devoxx-android-qr-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx-android-qr.png"
+                },
+                {
+                    id: 17991,
+                    parent: 17993,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "xebia_devoxx_app.png",
+                    slug: "xebia_devoxx_app-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/xebia_devoxx_app.png"
+                },
+                {
+                    id: 17992,
+                    parent: 17993,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "devoxx_talk.png",
+                    slug: "devoxx_talk-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx_talk.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 128,
+                    description: "",
+                    url: "",
+                    nickname: "blacroix",
+                    lastName: "Lacroix",
+                    firstName: "Benjamin",
+                    name: "Benjamin Lacroix",
+                    slug: "blacroix"
+                }
+            ],
+            tags: [
+                {
+                    id: 264,
+                    postCount: 67,
+                    description: "",
+                    slug: "android",
+                    title: "Android"
+                },
+                {
+                    id: 434,
+                    postCount: 63,
+                    description: "",
+                    slug: "devoxx",
+                    title: "Devoxx"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 230,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-15 09:15:43",
+            date: "2014-04-15 09:00:43",
+            excerpt: "Devoxx France se tient les 16, 17 et 18 avril prochain. À cette occasion, Xebia vous propose une application native Android vous permettant de visionner le planning, le détail des conférences, des speakers et vos votes directement depuis l&rsquo;application.",
+            titlePlain: "Application Devoxx France pour Android",
+            title: "Application Devoxx France pour Android",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/15/application-devoxx-france-pour-android/",
+            slug: "application-devoxx-france-pour-android",
+            type: "post"
+        },
+        {
+            id: 17983,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17982,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "photo2.jpg",
+                    slug: "photo2-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/photo2.jpg"
+                },
+                {
+                    id: 17980,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "appstore.png",
+                    slug: "appstore-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/appstore.png"
+                },
+                {
+                    id: 17981,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "photo3.jpg",
+                    slug: "photo3-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/photo3.jpg"
+                },
+                {
+                    id: 17979,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "iphone5.png",
+                    slug: "iphone5-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/iphone5.png"
+                },
+                {
+                    id: 17975,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "photo1.jpg",
+                    slug: "photo1-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/photo1.jpg"
+                },
+                {
+                    id: 17976,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "photo6.jpg",
+                    slug: "photo6-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/photo6.jpg"
+                },
+                {
+                    id: 17977,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "photo5.jpg",
+                    slug: "photo5-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/photo5.jpg"
+                },
+                {
+                    id: 17978,
+                    parent: 17983,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "photo4.jpg",
+                    slug: "photo4-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/photo4.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 50,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "akinsella",
+                    lastName: "Kinsella",
+                    firstName: "Alexis",
+                    name: "Alexis Kinsella",
+                    slug: "akinsella"
+                }
+            ],
+            tags: [
+                {
+                    id: 1476,
+                    postCount: 1,
+                    description: "",
+                    slug: "applicationsmobiles",
+                    title: "applicationsmobiles"
+                },
+                {
+                    id: 434,
+                    postCount: 63,
+                    description: "",
+                    slug: "devoxx",
+                    title: "Devoxx"
+                },
+                {
+                    id: 805,
+                    postCount: 3,
+                    description: "",
+                    slug: "ipad",
+                    title: "iPad"
+                },
+                {
+                    id: 319,
+                    postCount: 12,
+                    description: "",
+                    slug: "iphone",
+                    title: "iPhone"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 230,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-14 16:53:37",
+            date: "2014-04-14 16:34:54",
+            excerpt: "L&rsquo;application Xebia pour iOS a été mise à jour spécialement à l&rsquo;occasion de la conférence Devoxx France 2014 pour vous permettre de suivre le programme depuis votre iPhone ou votre iPad. Vous pourrez ainsi retrouver dans le menu de votre application: Le planning de la journée d&rsquo;université, ainsi que les 2 journées de conférence. La [&hellip;]",
+            titlePlain: "DevoxxFR 2014 - Mise à jour de l'application mobile Xebia pour iPhone et iPad",
+            title: "DevoxxFR 2014 - Mise à jour de l'application mobile Xebia pour iPhone et iPad",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/14/devoxxfr-2014-mise-a-jour-de-lapplication-mobile-xebia-pour-iphone-et-ipad/",
+            slug: "devoxxfr-2014-mise-a-jour-de-lapplication-mobile-xebia-pour-iphone-et-ipad",
+            type: "post"
+        },
+        {
+            id: 17964,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17960,
+                    parent: 17964,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "devoxx-xebia-fr.png",
+                    slug: "devoxx-xebia-fr-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx-xebia-fr.png"
+                },
+                {
+                    id: 17962,
+                    parent: 17964,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "android-play-store.png",
+                    slug: "android-play-store-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/android-play-store.png"
+                },
+                {
+                    id: 17963,
+                    parent: 17964,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "devoxx-2014-1.png",
+                    slug: "devoxx-2014-1-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx-2014-1.png"
+                },
+                {
+                    id: 17968,
+                    parent: 17964,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "qr-code-googlechrome",
+                    slug: "qr-code-googleplay",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/qr-code-googleplay.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 50,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "akinsella",
+                    lastName: "Kinsella",
+                    firstName: "Alexis",
+                    name: "Alexis Kinsella",
+                    slug: "akinsella"
+                }
+            ],
+            tags: [
+                {
+                    id: 434,
+                    postCount: 63,
+                    description: "",
+                    slug: "devoxx",
+                    title: "Devoxx"
+                },
+                {
+                    id: 352,
+                    postCount: 8,
+                    description: "",
+                    slug: "mobile",
+                    title: "mobile"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 230,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-14 14:54:27",
+            date: "2014-04-14 14:23:52",
+            excerpt: "L&rsquo;édition 2014 de la conférence Devoxx France arrive à grand pas. Peut-être cherchez-vous encore l&rsquo;application qui vous accompagnera tout au long de ces trois jours ? L&rsquo;application dédiée aux éditions 2012 &amp; 2013 a justement été mise à jour et n&rsquo;attend que vous ! Fonctionnalités Voici quelques fonctionnalités proposées par l&rsquo;application : le détail du [&hellip;]",
+            titlePlain: "Sortie de la version 2014 de l'application mobile Devoxx France !",
+            title: "Sortie de la version 2014 de l'application mobile Devoxx France !",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/14/sortie-de-la-version-2014-de-lapplication-mobile-devoxx-france/",
+            slug: "sortie-de-la-version-2014-de-lapplication-mobile-devoxx-france",
+            type: "post"
+        },
+        {
+            id: 17949,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17948,
+                    parent: 17949,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "IllustrationExtremeRoadmapping.001.jpg",
+                    slug: "illustrationextremeroadmapping-001-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/IllustrationExtremeRoadmapping.001.jpg"
+                },
+                {
+                    id: 17947,
+                    parent: 17949,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Capture-d’écran-2014-03-31-à-12.06.57.png",
+                    slug: "capture-decran-2014-03-31-a-12-06-57-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/Capture-d’écran-2014-03-31-à-12.06.571.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 96,
+                    description: "Ancien ingénieur de développement, j'ai eu l'occasion de travailler en eXtreme Programming et suis de facto très sensible aux bonnes pratiques d'ingénierie logicielle. Depuis 2008, j'ai alternativement assumé les rôles de Product Owner ou de Scrum Master sur différents projets. C'est ce qui me permet maintenant d'accompagner des équipes dans leur transition agile.",
+                    url: "http://blog.xebia.fr",
+                    nickname: "lperot",
+                    lastName: "Pérot",
+                    firstName: "Ludovic",
+                    name: "Ludovic Pérot",
+                    slug: "lperot"
+                }
+            ],
+            tags: [
+                {
+                    id: 1475,
+                    postCount: 1,
+                    description: "",
+                    slug: "extreme-roadmapping",
+                    title: "Extreme Roadmapping"
+                },
+                {
+                    id: 1474,
+                    postCount: 1,
+                    description: "",
+                    slug: "roadmap",
+                    title: "Roadmap"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 171,
+                    description: "",
+                    slug: "agilite",
+                    title: "Agile"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-11 10:44:04",
+            date: "2014-04-11 10:35:07",
+            excerpt: "Aurélien Maury vous a présenté lors d’un précédent billet la mise en place des fondations au sein de Xebia, notamment pourquoi nous avions opté pour cette organisation plutôt qu’une autre. Je vous propose de poursuivre la visite des coulisses en vous partageant la manière dont, en février, nous avons fait émerger 7 roadmaps (une par [&hellip;]",
+            titlePlain: "La vie des fondations : Extreme Road-mapping",
+            title: "La vie des fondations : Extreme Road-mapping",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/11/la-vie-des-fondations-extreme-road-mapping/",
+            slug: "la-vie-des-fondations-extreme-road-mapping",
+            type: "post"
+        },
+        {
+            id: 17938,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 173,
+                    postCount: 47,
+                    description: "",
+                    slug: "javascript",
+                    title: "JavaScript"
+                },
+                {
+                    id: 269,
+                    postCount: 51,
+                    description: "",
+                    slug: "kanban",
+                    title: "Kanban"
+                },
+                {
+                    id: 1220,
+                    postCount: 13,
+                    description: "",
+                    slug: "lean-startup",
+                    title: "lean startup"
+                },
+                {
+                    id: 1473,
+                    postCount: 1,
+                    description: "",
+                    slug: "ng-europe",
+                    title: "ng-europe"
+                },
+                {
+                    id: 517,
+                    postCount: 9,
+                    description: "",
+                    slug: "rabbitmq",
+                    title: "rabbitmq"
+                },
+                {
+                    id: 1131,
+                    postCount: 6,
+                    description: "",
+                    slug: "typescript",
+                    title: "Typescript"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 351,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-10 10:13:24",
+            date: "2014-04-10 09:56:02",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité Utilisation de Kanban en pédagogie (Par Couthaïer farfra) The Lean Startup method explained (Par Benoit Emery) Front ng-europe 2014 (Par Bastien Caudan) Javascript Superhero (Par Yannick Grenzinger) Back RabbitMQ 3.3.0 (Par Nicolas Jozwiak) Web Sortie de la version 1.0 de TypeScript (Par Benoit [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/10/revue-de-presse-xebia-2014-15/",
+            slug: "revue-de-presse-xebia-2014-15",
+            type: "post"
+        },
+        {
+            id: 17885,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17884,
+                    parent: 17885,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Jeff-sutherland-Scrum-formation",
+                    slug: "image2014-4-7-16043-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/image2014-4-7-16043.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 53,
+                    postCount: 121,
+                    description: "",
+                    slug: "scrum",
+                    title: "SCRUM"
+                },
+                {
+                    id: 852,
+                    postCount: 5,
+                    description: "",
+                    slug: "training",
+                    title: "Training"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 170,
+                    description: "",
+                    slug: "agilite",
+                    title: "Agile"
+                },
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 227,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-09 10:07:58",
+            date: "2014-04-09 09:27:56",
+            excerpt: "Jeff Sutherland, co-fondateur de Scrum viendra donner une formation Scrum Master Certifiante les 19 et 20 juin prochain dans nos locaux à Paris. Cette formation de deux jours fournit les principes fondamentaux de Scrum. Des ateliers permettent de mettre la théorie en pratique (Product et Sprint Backlog, organisation des Daily Scrums, Sprint Planning Meetings, tenue [&hellip;]",
+            titlePlain: "Formation Scrum Master par Jeff Sutherland",
+            title: "Formation Scrum Master par Jeff Sutherland",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/09/formation-scrum-master-par-jeff-sutherland/",
+            slug: "formation-scrum-master-par-jeff-sutherland",
+            type: "post"
+        },
+        {
+            id: 17853,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 14,
+                    description: "Nicolas est un ingénieur d'études confirmé disposant de 5 ans d'expérience de conception et développement sur technologies Java/JEE. Son parcours chez un éditeur avant son entrée chez Xebia lui a notamment permis de développer de solides compétences dans le domaine de la qualité et de l’industrialisation (tests, intégration continue, gestion de configuration, contrôle qualité). Nicolas est Scrum Master Certifié et bénéficie d’une expérience très solide de mise en place des méthodes agiles et d’accompagnement d’équipe sur le terrain. Il est reconnu pour son approche pragmatique, proactive et pédagogique.",
+                    url: "http://www.xebia.fr",
+                    nickname: "njozwiak",
+                    lastName: "Jozwiak",
+                    firstName: "Nicolas",
+                    name: "Nicolas Jozwiak",
+                    slug: "njozwiak"
+                }
+            ],
+            tags: [
+                {
+                    id: 843,
+                    postCount: 9,
+                    description: "",
+                    slug: "akka",
+                    title: "akka"
+                },
+                {
+                    id: 1463,
+                    postCount: 2,
+                    description: "",
+                    slug: "metrics",
+                    title: "Metrics"
+                }
+            ],
+            categories: [
+                {
+                    id: 1472,
+                    parent: 0,
+                    postCount: 3,
+                    description: "",
+                    slug: "back",
+                    title: "Back"
+                },
+                {
+                    id: 784,
+                    parent: 0,
+                    postCount: 29,
+                    description: "",
+                    slug: "devops",
+                    title: "DevOps"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-08 09:24:50",
+            date: "2014-04-08 08:49:28",
+            excerpt: "Lors d&rsquo;une récente mise en place d&rsquo;un projet basé sur Scala et Akka, la problématique de collecte de métriques s&rsquo;est posée. Notre choix s&rsquo;est porté sur la bibliothèque Metrics. Si vous souhaitez plus d&rsquo;informations sur cette dernière, un article traitant le sujet se trouve à cette adresse. De base, Metrics ne fournit pas de support pour [&hellip;]",
+            titlePlain: "Metrics'er vos actors Akka",
+            title: "Metrics'er vos actors Akka",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/08/metricser-vos-actors-akka/",
+            slug: "metricser-vos-actors-akka",
+            type: "post"
+        },
+        {
+            id: 17800,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17799,
+                    parent: 17800,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "pcampparis_logo.png",
+                    slug: "pcampparis_logo-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/pcampparis_logo.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 74,
+                    description: "J'ai 13 ans d’expérience professionelle. Je suis impliqué sur des projets itératifs et offshore depuis 2001 et j'y ai occupé tour à tour les postes d'ingénieur qualité, responsable des tests, analyste fonctionnel, et directeur de projet. Je forme et j'accompagne les clients de Xebia dans l’adoption de méthodes agiles (SCRUM, XP) et de pratiques d’ingénierie pilotées par les tests (TDR, ATDD). J'ai développé mon expertise au travers d’interventions dans des domaines métiers aussi variés que l’industrie, l’e-commerce, l’édition logiciel, le luxe, le public, les télécoms, ou les banques d’investissement. J'intervient régulièrement dans les conférences traitant de l'agilité et des tests depuis 2008.",
+                    url: "http://www.xebia.fr",
+                    nickname: "gmantel",
+                    lastName: "Mantel",
+                    firstName: "Gilles",
+                    name: "Gilles Mantel",
+                    slug: "gmantel"
+                }
+            ],
+            tags: [
+                {
+                    id: 1136,
+                    postCount: 2,
+                    description: "",
+                    slug: "productcamp",
+                    title: "ProductCamp"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 169,
+                    description: "",
+                    slug: "agilite",
+                    title: "Agile"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-07 15:32:14",
+            date: "2014-04-07 11:33:00",
+            excerpt: "Le 12 Février dernier se déroulait le second ProductCamp Paris dans les locaux de Criteo, après la première édition qui s’était tenue en Décembre 2012 et que nous avions hébergé dans les locaux de Xebia.  Cette deuxième édition était organisée par 4 fervents supporters du Produit : l&rsquo;association WDPM, le meetup ProductTank Paris, la société Criteo et [&hellip;]",
+            titlePlain: "Extraits du ProductCamp Paris #2",
+            title: "Extraits du ProductCamp Paris #2",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/07/extraits-du-productcamp-paris-2/",
+            slug: "extraits-du-productcamp-paris-2",
+            type: "post"
+        },
+        {
+            id: 17775,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17774,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Logo-KFUG.png",
+                    slug: "logo-kfug-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/Logo-KFUG.png"
+                },
+                {
+                    id: 17766,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "criteo.jpeg",
+                    slug: "criteo-jpeg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/criteo.jpeg"
+                },
+                {
+                    id: 17767,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "kanbanzine2.jpeg",
+                    slug: "kanbanzine2-jpeg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/kanbanzine2.jpeg"
+                },
+                {
+                    id: 17768,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "getkanban1.jpeg",
+                    slug: "getkanban1-jpeg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/getkanban1.jpeg"
+                },
+                {
+                    id: 17769,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "beer-game-FKUG",
+                    slug: "image2014-3-30-20740-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/image2014-3-30-20740.png"
+                },
+                {
+                    id: 17770,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "BeerGame2.jpeg",
+                    slug: "beergame2-jpeg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/BeerGame2.jpeg"
+                },
+                {
+                    id: 17771,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "leanlegogame1.jpeg",
+                    slug: "leanlegogame1-jpeg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/leanlegogame1.jpeg"
+                },
+                {
+                    id: 17773,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "DSC_0026.JPG",
+                    slug: "dsc_0026-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/DSC_0026.jpg"
+                },
+                {
+                    id: 17784,
+                    parent: 17775,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "beer-gameV2",
+                    slug: "beer-gamev2",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/beer-gameV2.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 102,
+                    description: "18 années d’expériences, dont 14 années en pilotage et direction de projets Mainframe et NTIC (Forfait, Assistance Technique, TMA, Centre de Services). Depuis 2009, j'ai découvert avec enthousiasme le monde de l'agilité, au travers de la réalisation de projets IT Scrum ou je suis intervenu en tant que Scrum Master et Consultant Agile (Crédit Agricole S.A., GENERALI, Banque de France, CNSA). En 2012, j'ai rejoins la société XEBIA ou j'interviens en tant que Consultant et Formateur (BI-SAM ; Voyage SNCF.com ; SFR ; Française Des Jeux ; Europcar ; AXA) sur les pratiques Agile et plus particulièrement le Kanban.",
+                    url: "http://blog.xebia.fr/",
+                    nickname: "cfarfra",
+                    lastName: "Farfra",
+                    firstName: "Couthaïer",
+                    name: "Couthaïer Farfra",
+                    slug: "cfarfra"
+                }
+            ],
+            tags: [
+                {
+                    id: 1412,
+                    postCount: 3,
+                    description: "",
+                    slug: "french-kanban-user-group",
+                    title: "French Kanban User Group"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 168,
+                    description: "",
+                    slug: "agilite",
+                    title: "Méthodes agiles"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-04 10:27:31",
+            date: "2014-04-04 09:15:07",
+            excerpt: "Le 20 Mars 2014, nous avons participé au second Meetup du French Kanban User Group, tourné autour de la pratique des jeux Kanban et Lean.   L&rsquo;événement a été hébergé par la société Criteo, entreprise Française de reciblage publicitaire personnalisé sur internet, qui a mis à disposition du meetup 5 salles pour animer les sessions de jeux. [&hellip;]",
+            titlePlain: "Nous étions au Meetup #2 du FKUG \"Faites vos jeux ... en Kanban\"",
+            title: "Nous étions au Meetup #2 du FKUG \"Faites vos jeux ... en Kanban\"",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/04/meetup-2-fkug-kanban/",
+            slug: "meetup-2-fkug-kanban",
+            type: "post"
+        },
+        {
+            id: 17758,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17757,
+                    parent: 17758,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "hackaton-logo.png",
+                    slug: "hackaton-logo-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/hackaton-logo.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 113,
+                    description: "",
+                    url: "",
+                    nickname: "nthenozxebia",
+                    lastName: "Thénoz",
+                    firstName: "Nicolas",
+                    name: "Nicolas Thénoz",
+                    slug: "nthenoz"
+                }
+            ],
+            tags: [
+                {
+                    id: 264,
+                    postCount: 66,
+                    description: "",
+                    slug: "android",
+                    title: "Android"
+                },
+                {
+                    id: 815,
+                    postCount: 31,
+                    description: "",
+                    slug: "ios",
+                    title: "iOS"
+                },
+                {
+                    id: 265,
+                    postCount: 13,
+                    description: "",
+                    slug: "mobilite",
+                    title: "Mobilité"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 226,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-03 14:43:35",
+            date: "2014-04-03 14:20:52",
+            excerpt: "Xebia organise les 16, 17 et 18 mai un hackathon entièrement dédié à l&rsquo;univers des mobiles : la Hack Cup by Xebia. Durant 42h, les participants développeront une application iOS, Android ou hybride répondant au thème dévoilé lors du lancement.",
+            titlePlain: "Xebia lance la Hack Cup les 16, 17 et 18 mai prochains !",
+            title: "Xebia lance la Hack Cup les 16, 17 et 18 mai prochains !",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/03/xebia-hack-cup-16-18-mai/",
+            slug: "xebia-hack-cup-16-18-mai",
+            type: "post"
+        },
+        {
+            id: 17747,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 545,
+                    postCount: 4,
+                    description: "",
+                    slug: "aws",
+                    title: "AWS"
+                },
+                {
+                    id: 1389,
+                    postCount: 2,
+                    description: "",
+                    slug: "hadoop-user-group",
+                    title: "Hadoop User Group"
+                },
+                {
+                    id: 269,
+                    postCount: 50,
+                    description: "",
+                    slug: "kanban",
+                    title: "Kanban"
+                },
+                {
+                    id: 53,
+                    postCount: 120,
+                    description: "",
+                    slug: "scrum",
+                    title: "SCRUM"
+                },
+                {
+                    id: 1466,
+                    postCount: 1,
+                    description: "",
+                    slug: "spark",
+                    title: "Spark"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 350,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-03 10:13:01",
+            date: "2014-04-03 09:34:11",
+            excerpt: "La revue de presse hebdomadaire des technologies Big Data, Cloud et Web, architectures Java et mobilité dans des environnements agiles, proposée par Xebia. Agilité Un retour à Scrum (Par Ludovic Perot) Mise en place d&rsquo;un Kanban dans une équipe marketing (Par Yannick Quenec&rsquo;hdu) Front Principes de visualisation de données (Par Yannick Grenzinger) Data Tout sur [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/03/revue-de-presse-xebia-2014-14/",
+            slug: "revue-de-presse-xebia-2014-14",
+            type: "post"
+        },
+        {
+            id: 17740,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17739,
+                    parent: 17740,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "gdg-logo.jpeg",
+                    slug: "gdg-logo-jpeg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/gdg-logo.jpeg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 81,
+                    description: "",
+                    url: "http://blog.xebia.fr",
+                    nickname: "mbreton",
+                    lastName: "Breton",
+                    firstName: "Mathieu",
+                    name: "Mathieu Breton",
+                    slug: "mbreton"
+                }
+            ],
+            tags: [
+                {
+                    id: 1465,
+                    postCount: 1,
+                    description: "",
+                    slug: "gdg",
+                    title: "GDG"
+                },
+                {
+                    id: 1464,
+                    postCount: 1,
+                    description: "",
+                    slug: "user-group",
+                    title: "User Group"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 225,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "closed",
+            modified: "2014-04-02 13:13:51",
+            date: "2014-04-02 14:58:00",
+            excerpt: "Le Google Developer Group se réunira le jeudi 3 avril chez Xebia à 19:30, pour une présentation de Google Cloud messaging par Thomais Guérin, consultant Xebia. S&rsquo;en suivra une revue de l&rsquo;actualité Google par Thibault Pouget, Ingénieur logiciel chez Cirruseo puis conclusion de la soiré autour du classique buffet campagnard. Vous pouvez vous inscrire sur le site meetup [&hellip;]",
+            titlePlain: "Le GDG Paris s'installe à Xebia le temps d'une soirée Google Cloud Messaging",
+            title: "Le GDG Paris s'installe à Xebia le temps d'une soirée Google Cloud Messaging",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/02/le-gdg-paris-sinstalle-a-xebia-le-temps-dune-soiree-google-cloud-messaging/",
+            slug: "le-gdg-paris-sinstalle-a-xebia-le-temps-dune-soiree-google-cloud-messaging",
+            type: "post"
+        },
+        {
+            id: 17728,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17727,
+                    parent: 17728,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "bandeau-scrumday2014.png",
+                    slug: "bandeau-scrumday2014-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/bandeau-scrumday2014.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1057,
+                    postCount: 7,
+                    description: "",
+                    slug: "scrum-day",
+                    title: "Scrum Day"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 224,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-02 09:20:39",
+            date: "2014-04-02 08:56:47",
+            excerpt: "A l&rsquo;occasion de la 4ème édition du Scrum Day, Xebia s&rsquo;intègre comme sponsor officiel de l&rsquo;événement.Ce rendez-vous annuel et incontournable pour tous les professionnels de l’Agilité permet de se rassembler afin de monter en compétences, diffuser les bonnes pratiques et dernières techniques reconnues, mais aussi de favoriser les rencontres professionnelles et les échanges inter-entreprises. Vous nous retrouverez donc les 10 et 11 avril prochains [&hellip;]",
+            titlePlain: "Xebia présent au Scrum Day 2014",
+            title: "Xebia présent au Scrum Day 2014",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/02/xebia-present-au-scrum-day-2014/",
+            slug: "xebia-present-au-scrum-day-2014",
+            type: "post"
+        },
+        {
+            id: 17717,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17716,
+                    parent: 17717,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "GraphiteRegistry-New-Page.png",
+                    slug: "graphiteregistry-new-page-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/04/GraphiteRegistry-New-Page.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 22,
+                    description: "",
+                    url: "http://blog.xebia.fr",
+                    nickname: "slemesle",
+                    lastName: "Le Mesle",
+                    firstName: "Séven",
+                    name: "Séven Le Mesle",
+                    slug: "slemesle"
+                }
+            ],
+            tags: [
+                {
+                    id: 875,
+                    postCount: 6,
+                    description: "",
+                    slug: "api",
+                    title: "API"
+                },
+                {
+                    id: 1463,
+                    postCount: 1,
+                    description: "",
+                    slug: "metrics",
+                    title: "Metrics"
+                }
+            ],
+            categories: [
+                {
+                    id: 420,
+                    parent: 0,
+                    postCount: 66,
+                    description: "",
+                    slug: "architecture",
+                    title: "Architecture"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-04-01 11:13:52",
+            date: "2014-04-01 10:02:45",
+            excerpt: "Lors du XKE de Mars, j’ai réalisé un hands-on autour de Metrics, cette librairie permet de créer facilement des métriques applicatives. Avec Metrics, vous allez pouvoir standardiser votre supervision technique et métier tout en garantissant la possibilité de les exposer sous différentes formes allant du fichier de log, à Graphite en passant par une API [&hellip;]",
+            titlePlain: "Simplifiez vous le monitoring avec Metrics",
+            title: "Simplifiez vous le monitoring avec Metrics",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/04/01/simplifiez-vous-le-monitoring-avec-metrics/",
+            slug: "simplifiez-vous-le-monitoring-avec-metrics",
+            type: "post"
+        },
+        {
+            id: 17707,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 101,
+                    description: "",
+                    url: "",
+                    nickname: "ebriand",
+                    lastName: "Briand",
+                    firstName: "Eric",
+                    name: "Eric Briand",
+                    slug: "ebriand"
+                }
+            ],
+            tags: [
+                {
+                    id: 272,
+                    postCount: 19,
+                    description: "",
+                    slug: "google-app-engine",
+                    title: "Google App Engine"
+                },
+                {
+                    id: 1462,
+                    postCount: 1,
+                    description: "",
+                    slug: "google-cloud-platform",
+                    title: "Google Cloud Platform"
+                },
+                {
+                    id: 1356,
+                    postCount: 2,
+                    description: "",
+                    slug: "google-compute-engine",
+                    title: "Google Compute Engine"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 223,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-31 15:52:02",
+            date: "2014-03-31 15:13:49",
+            excerpt: "Après une journée Google Cloud Platform Live le 25 mars dernier à San Francisco, Google organise aux quatre coins du monde le Google Cloud Platform Developer Roadshow. Celui-ci passe à Paris le 7 avril prochain et ce sera l&rsquo;occasion pour Google de revenir sur les différentes annonces de la journée du 25 (vous pouvez d&rsquo;ailleurs [&hellip;]",
+            titlePlain: "Google Cloud Platform Developer Roadshow",
+            title: "Google Cloud Platform Developer Roadshow",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/31/google-cloud-platform-developer-roadshow/",
+            slug: "google-cloud-platform-developer-roadshow",
+            type: "post"
+        },
+        {
+            id: 17680,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17678,
+                    parent: 17680,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Capture-d’écran-2014-03-27-à-11.08.25.png",
+                    slug: "capture-decran-2014-03-27-a-11-08-25-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Capture-d’écran-2014-03-27-à-11.08.25.png"
+                },
+                {
+                    id: 17679,
+                    parent: 17680,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "TesterCDouter.png",
+                    slug: "testercdouter-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/TesterCDouter.png"
+                },
+                {
+                    id: 17696,
+                    parent: 17680,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Xebia-agilite-user-story",
+                    slug: "capture-decran-2014-03-27-a-11-08-25",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Capture-d’écran-2014-03-27-à-11.08.251.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 102,
+                    description: "18 années d’expériences, dont 14 années en pilotage et direction de projets Mainframe et NTIC (Forfait, Assistance Technique, TMA, Centre de Services). Depuis 2009, j'ai découvert avec enthousiasme le monde de l'agilité, au travers de la réalisation de projets IT Scrum ou je suis intervenu en tant que Scrum Master et Consultant Agile (Crédit Agricole S.A., GENERALI, Banque de France, CNSA). En 2012, j'ai rejoins la société XEBIA ou j'interviens en tant que Consultant et Formateur (BI-SAM ; Voyage SNCF.com ; SFR ; Française Des Jeux ; Europcar ; AXA) sur les pratiques Agile et plus particulièrement le Kanban.",
+                    url: "http://blog.xebia.fr/",
+                    nickname: "cfarfra",
+                    lastName: "Farfra",
+                    firstName: "Couthaïer",
+                    name: "Couthaïer Farfra",
+                    slug: "cfarfra"
+                }
+            ],
+            tags: [
+                {
+                    id: 720,
+                    postCount: 3,
+                    description: "",
+                    slug: "bdd",
+                    title: "BDD"
+                },
+                {
+                    id: 269,
+                    postCount: 49,
+                    description: "",
+                    slug: "kanban",
+                    title: "Kanban"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 167,
+                    description: "",
+                    slug: "agilite",
+                    title: "Méthodes agiles"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-31 10:48:50",
+            date: "2014-03-31 09:40:03",
+            excerpt: "Une vie de dev Cet article est la suite d&rsquo;une série intitulée &quot;Il était une fois un projet IT en Kanban&quot;, débutée en 2013, décrivant  les différentes étapes de l&rsquo;accompagnement d&rsquo;un grand groupe vers une transformation Agile à grande échelle, basé sur Kanban. Les épisodes précédents : Il était un fois un projet IT en Kanban (Episode 1 [&hellip;]",
+            titlePlain: "Il était une fois un projet IT en Kanban (Episode 4 : Améliorer la qualité de vos Stories)",
+            title: "Il était une fois un projet IT en Kanban (Episode 4 : Améliorer la qualité de vos Stories)",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/31/il-etait-une-fois-un-projet-it-en-kanban-episode-4-ameliorer-la-qualite-de-vos-stories/",
+            slug: "il-etait-une-fois-un-projet-it-en-kanban-episode-4-ameliorer-la-qualite-de-vos-stories",
+            type: "post"
+        },
+        {
+            id: 17664,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17663,
+                    parent: 17664,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "french-tech-safari-logo.jpg",
+                    slug: "french-tech-safari-logo-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/french-tech-safari-logo.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1272,
+                    postCount: 7,
+                    description: "",
+                    slug: "big-data",
+                    title: "Big Data"
+                },
+                {
+                    id: 1267,
+                    postCount: 2,
+                    description: "",
+                    slug: "cloud",
+                    title: "Cloud"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 222,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-28 14:22:57",
+            date: "2014-03-28 13:45:24",
+            excerpt: "Pour la première année, Xebia participe à la FrenchTech Safari ! Mais en quoi cela consiste ? Le 19 avril, la FrenchTech Safari vous propose un tour dans Paris à la découverte de nouvelles technologies et d&rsquo;innovation. Au cours de la journée, 15 lieux vous seront ouverts et où vous pourrez assister gratuitement à des conférences [&hellip;]",
+            titlePlain: "Xebia participe à la FrenchTech Safari le 19 avril",
+            title: "Xebia participe à la FrenchTech Safari le 19 avril",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/28/xebia-frenchtech-safari/",
+            slug: "xebia-frenchtech-safari",
+            type: "post"
+        },
+        {
+            id: 17656,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17654,
+                    parent: 17656,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Shu-Ha-Ri.png",
+                    slug: "shu-ha-ri-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Shu-Ha-Ri.png"
+                },
+                {
+                    id: 17655,
+                    parent: 17656,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "In-Scrum-We-Trust_low-res.jpg",
+                    slug: "in-scrum-we-trust_low-res-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/In-Scrum-We-Trust_low-res.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 137,
+                    description: "",
+                    url: "",
+                    nickname: "nlochet",
+                    lastName: "Lochet",
+                    firstName: "Nicolas",
+                    name: "Nicolas Lochet",
+                    slug: "nlochet"
+                }
+            ],
+            tags: [ ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 166,
+                    description: "",
+                    slug: "agilite",
+                    title: "Méthodes agiles"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-27 17:19:12",
+            date: "2014-03-28 08:00:58",
+            excerpt: "Depuis quelque temps, je constate une prolifération d’articles à charge sur l’Agilité. On y discute de la pertinence du terme Agile, de son galvaudage et de son rôle de paravent pour couvrir des pratiques approximatives. On aime aussi s’y donner de l’importance en annonçant l’échec de l’Agilité et en se plaçant ainsi au-dessus des masses. [&hellip;]",
+            titlePlain: "Le MANIFESTE AGILE est l'opium du peuple...",
+            title: "Le MANIFESTE AGILE est l'opium du peuple...",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/28/le-manifeste-agile-est-lopium-du-peuple/",
+            slug: "le-manifeste-agile-est-lopium-du-peuple",
+            type: "post"
+        },
+        {
+            id: 17643,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 194,
+                    postCount: 14,
+                    description: "",
+                    slug: "amazon",
+                    title: "Amazon"
+                },
+                {
+                    id: 1459,
+                    postCount: 1,
+                    description: "",
+                    slug: "apache-camel",
+                    title: "Apache Camel"
+                },
+                {
+                    id: 956,
+                    postCount: 4,
+                    description: "",
+                    slug: "elastic-search",
+                    title: "Elastic Search"
+                },
+                {
+                    id: 1438,
+                    postCount: 4,
+                    description: "",
+                    slug: "google-cloud",
+                    title: "Google Cloud"
+                },
+                {
+                    id: 1457,
+                    postCount: 1,
+                    description: "",
+                    slug: "ie8",
+                    title: "IE8"
+                },
+                {
+                    id: 1460,
+                    postCount: 1,
+                    description: "",
+                    slug: "product-backlog",
+                    title: "Product backlog"
+                },
+                {
+                    id: 1458,
+                    postCount: 1,
+                    description: "",
+                    slug: "scrollmagic",
+                    title: "ScrollMagic"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 349,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-27 10:03:06",
+            date: "2014-03-27 09:48:54",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité Budget instead of estimating (Par ludovic perot) Quand ma liste au Père Noël devient un Product Backlog (Par Nicolas Lochet) Front TrifleJS: Automatisez vos tests end to end IE8 (Par Philippe Antoine) De la parallaxe avec ScrollMagic (Par Philippe Antoine) Back Apache Camel [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/27/revue-de-presse-xebia-2014-13/",
+            slug: "revue-de-presse-xebia-2014-13",
+            type: "post"
+        },
+        {
+            id: 17617,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17615,
+                    parent: 17617,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "price-clean.png",
+                    slug: "price-clean-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/price-clean.png"
+                },
+                {
+                    id: 17616,
+                    parent: 17617,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "PaaS-IaaS.png",
+                    slug: "paas-iaas-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/PaaS-IaaS.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 83,
+                    description: "Charles a rejoint Xebia en 2011 après 7 années d'expériences en développement Java JEE. Il intervient sur des missions d'expertise liées à la performance. Passionné de développement mais aussi d'infrastructure, il est un fervent défenseur de la philosophie DevOps et des technologies Opensource et Cloud.",
+                    url: "http://blog.xebia.fr",
+                    nickname: "cblonde",
+                    lastName: "Blonde",
+                    firstName: "Charles",
+                    name: "Charles Blonde",
+                    slug: "cblonde"
+                }
+            ],
+            tags: [
+                {
+                    id: 1455,
+                    postCount: 1,
+                    description: "",
+                    slug: "app-engine",
+                    title: "App Engine"
+                },
+                {
+                    id: 1456,
+                    postCount: 1,
+                    description: "",
+                    slug: "bigquery",
+                    title: "BigQuery"
+                },
+                {
+                    id: 1454,
+                    postCount: 1,
+                    description: "",
+                    slug: "compute-engine",
+                    title: "Compute Engine"
+                },
+                {
+                    id: 1438,
+                    postCount: 3,
+                    description: "",
+                    slug: "google-cloud",
+                    title: "Google Cloud"
+                }
+            ],
+            categories: [
+                {
+                    id: 1267,
+                    parent: 0,
+                    postCount: 38,
+                    description: "",
+                    slug: "cloud",
+                    title: "Cloud"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-26 14:11:00",
+            date: "2014-03-26 14:00:00",
+            excerpt: "Ce mardi 25 mars a eu lieu a San Francisco le Google Cloud Platform Live, journée au cours de laquelle se sont enchainées des présentations sur l’histoire de Google Cloud, son présent et son avenir. En ouverture de cette journée, nous avons eu droit a une keynote animée par Urs Hölzle (vice président infrastructure). Il [&hellip;]",
+            titlePlain: "Google Cloud Platform Live",
+            title: "Google Cloud Platform Live",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/26/google-cloud-platform-live/",
+            slug: "google-cloud-platform-live",
+            type: "post"
+        },
+        {
+            id: 17602,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17601,
+                    parent: 17602,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "DDD.jpg",
+                    slug: "ddd-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/DDD.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 14,
+                    description: "Nicolas est un ingénieur d'études confirmé disposant de 5 ans d'expérience de conception et développement sur technologies Java/JEE. Son parcours chez un éditeur avant son entrée chez Xebia lui a notamment permis de développer de solides compétences dans le domaine de la qualité et de l’industrialisation (tests, intégration continue, gestion de configuration, contrôle qualité). Nicolas est Scrum Master Certifié et bénéficie d’une expérience très solide de mise en place des méthodes agiles et d’accompagnement d’équipe sur le terrain. Il est reconnu pour son approche pragmatique, proactive et pédagogique.",
+                    url: "http://www.xebia.fr",
+                    nickname: "njozwiak",
+                    lastName: "Jozwiak",
+                    firstName: "Nicolas",
+                    name: "Nicolas Jozwiak",
+                    slug: "njozwiak"
+                }
+            ],
+            tags: [
+                {
+                    id: 1442,
+                    postCount: 2,
+                    description: "",
+                    slug: "techevents",
+                    title: "techevents"
+                }
+            ],
+            categories: [
+                {
+                    id: 687,
+                    parent: 0,
+                    postCount: 67,
+                    description: "",
+                    slug: "craftsmanship",
+                    title: "Craftsmanship"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-21 10:04:04",
+            date: "2014-03-21 09:18:40",
+            excerpt: "Xebia organise dans ses locaux un hands-on sur le Domain Driven Design. Vous avez entendu parler de DDD, vu des présentations sur le sujet et encore mieux, lu le livre d&rsquo;Eric Evans. Mais maintenant, il faut intégrer ces principes à votre code. À travers une application existante, nous vous proposons de vous intéresser à la réflexion [&hellip;]",
+            titlePlain: "Xebia organise un Hands-on Domain Driven Design le 27 mars prochain",
+            title: "Xebia organise un Hands-on Domain Driven Design le 27 mars prochain",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/21/xebia-hands-on-domain-driven-design-27-mars/",
+            slug: "xebia-hands-on-domain-driven-design-27-mars",
+            type: "post"
+        },
+        {
+            id: 17593,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1216,
+                    postCount: 18,
+                    description: "",
+                    slug: "angularjs",
+                    title: "AngularJS"
+                },
+                {
+                    id: 875,
+                    postCount: 5,
+                    description: "",
+                    slug: "api",
+                    title: "API"
+                },
+                {
+                    id: 1152,
+                    postCount: 2,
+                    description: "",
+                    slug: "dsi",
+                    title: "DSI"
+                },
+                {
+                    id: 502,
+                    postCount: 5,
+                    description: "",
+                    slug: "firefox",
+                    title: "Firefox"
+                },
+                {
+                    id: 192,
+                    postCount: 57,
+                    description: "",
+                    slug: "hadoop",
+                    title: "Hadoop"
+                },
+                {
+                    id: 934,
+                    postCount: 9,
+                    description: "",
+                    slug: "java-8",
+                    title: "Java 8"
+                },
+                {
+                    id: 1348,
+                    postCount: 5,
+                    description: "",
+                    slug: "kibana",
+                    title: "Kibana"
+                },
+                {
+                    id: 790,
+                    postCount: 5,
+                    description: "",
+                    slug: "mahout",
+                    title: "Mahout"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 348,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-20 12:05:29",
+            date: "2014-03-20 11:02:05",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité Divide responsibility for defining stories (Par Ludovic Perot) Les barbares attaquent les DSI (Par Yannick Grenzinger) Mobilité L&rsquo;API wear de Google en developer preview (Par Thomas Guerin) Craftsmanship Java 8 est sorti (Par Ivan Beauvais) Front  Angular 2.0 (Par Yannick Grenzinger) Flexbox et [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/20/revue-de-presse-xebia-2014-12/",
+            slug: "revue-de-presse-xebia-2014-12",
+            type: "post"
+        },
+        {
+            id: 17572,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17578,
+                    parent: 17572,
+                    mimeType: "",
+                    caption: "5ème du palmarès Great Place to Work 2014",
+                    description: "",
+                    title: "photo-xebia2",
+                    slug: "photo-xebia2",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/photo-xebia2.jpg"
+                },
+                {
+                    id: 17570,
+                    parent: 17572,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "GPTW_2012_stamp_logo_cmyk.jpg",
+                    slug: "gptw_2012_stamp_logo_cmyk-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/GPTW_2012_stamp_logo_cmyk.jpg"
+                },
+                {
+                    id: 17571,
+                    parent: 17572,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "2014_03_05_XEBIA_16_FINAL_3.jpg",
+                    slug: "2014_03_05_xebia_16_final_3-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/2014_03_05_XEBIA_16_FINAL_3.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1452,
+                    postCount: 1,
+                    description: "",
+                    slug: "great-place-to-work",
+                    title: "Great Place To Work"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 221,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-19 14:06:45",
+            date: "2014-03-19 12:07:08",
+            excerpt: "Les Xebians le disent : c&rsquo;est très agréable de travailler chez Xebia ! Et bien maintenant, c&rsquo;est officiel !  Pour la première fois, Xebia a tenté l&rsquo;aventure &quot;Great Place to Work&quot;, en participant au palmarès qui récompense les entreprises où il fait bon de travailler. Mais qu&rsquo;est-ce que cela signifie ? « Une entreprise où il fait bon travailler est un [&hellip;]",
+            titlePlain: "Xebia, n°5 au palmarès Great Place to Work",
+            title: "Xebia, n°5 au palmarès Great Place to Work",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/19/xebia-n5-au-palmares-great-place-to-work/",
+            slug: "xebia-n5-au-palmares-great-place-to-work",
+            type: "post"
+        },
+        {
+            id: 17562,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17561,
+                    parent: 17562,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "logoScrumday2014.png",
+                    slug: "logoscrumday2014-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/logoScrumday2014.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 96,
+                    description: "Ancien ingénieur de développement, j'ai eu l'occasion de travailler en eXtreme Programming et suis de facto très sensible aux bonnes pratiques d'ingénierie logicielle. Depuis 2008, j'ai alternativement assumé les rôles de Product Owner ou de Scrum Master sur différents projets. C'est ce qui me permet maintenant d'accompagner des équipes dans leur transition agile.",
+                    url: "http://blog.xebia.fr",
+                    nickname: "lperot",
+                    lastName: "Pérot",
+                    firstName: "Ludovic",
+                    name: "Ludovic Pérot",
+                    slug: "lperot"
+                }
+            ],
+            tags: [
+                {
+                    id: 1057,
+                    postCount: 6,
+                    description: "",
+                    slug: "scrum-day",
+                    title: "Scrum Day"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 220,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-19 09:31:31",
+            date: "2014-03-19 09:13:16",
+            excerpt: "Le ScrumDay est une conférence agile de référence chaque année. Il se déroulera les 10 et 11 avril et aura lieu pour la première fois au centre de congrès de Disneyland Paris. Cette année, le thème est la ‘culture produit’. Et nous y serons, avec trois présentations&#8230;",
+            titlePlain: "Rendez-vous au ScrumDay 2014 !",
+            title: "Rendez-vous au ScrumDay 2014 !",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/19/rendez-vous-au-scrumday-2014/",
+            slug: "rendez-vous-au-scrumday-2014",
+            type: "post"
+        },
+        {
+            id: 17548,
+            commentCount: 1,
+            attachments: [ ],
+            comments: [
+                {
+                    id: 1309056,
+                    content: "&lt;p&gt;Une raison historique pour l&amp;rsquo;utilisation de POST partout est la mauvaise configuration ou l&amp;rsquo;absence de support des autres verbes par les serveurs proxy. Et il est bien possible que PATCH rencontre encore des difficultés (même si ça commence a dater)&lt;/p&gt; &lt;p&gt;la solution classique est d&amp;rsquo;encoder le verbe réel dans les query params.&lt;/p&gt; &lt;p&gt;Je trouve assez intéressant que l&amp;rsquo;URI d&amp;rsquo;exemple utilisée pour POST contienne un verbe ( POST /clients/creat). les préconisations classiques des API restful sont de n&amp;rsquo;avoir que des noms dans les URI (la convention classique est que POST /clients est une création d&amp;rsquo;un élement dans le namespace &amp;laquo;&amp;nbsp;clients&amp;nbsp;&amp;raquo;). Ca mériterait d&amp;rsquo;être développé dans un futur article :D&lt;/p&gt;",
+                    date: "2014-03-17 10:43:31",
+                    url: "",
+                    name: "Jean"
+                }
+            ],
+            authors: [
+                {
+                    id: 135,
+                    description: "",
+                    url: "",
+                    nickname: "Joachim Rousseau",
+                    lastName: "Rousseau",
+                    firstName: "Joachim",
+                    name: "Joachim Rousseau",
+                    slug: "joachim-rousseau"
+                }
+            ],
+            tags: [
+                {
+                    id: 875,
+                    postCount: 4,
+                    description: "",
+                    slug: "api",
+                    title: "API"
+                },
+                {
+                    id: 1449,
+                    postCount: 1,
+                    description: "",
+                    slug: "http",
+                    title: "HTTP"
+                }
+            ],
+            categories: [
+                {
+                    id: 420,
+                    parent: 0,
+                    postCount: 65,
+                    description: "",
+                    slug: "architecture",
+                    title: "Architecture"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-17 10:18:45",
+            date: "2014-03-17 09:51:24",
+            excerpt: "Aujourd&rsquo;hui, de plus en plus d&rsquo;applications web disposent d&rsquo;une API. La pratique de SOAP étant jugée trop glissante (surtout avec les interfaces liquides), c&rsquo;est le REST qui se répand. Ce style d&rsquo;architecture reposant sur HTTP, comprendre la norme HTTP est essentiel. Cependant, les mauvais usages et autres anti-patterns sont à l&rsquo;affût, prêts à se jeter [&hellip;]",
+            titlePlain: "POST vs. PUT : la confusion",
+            title: "POST vs. PUT : la confusion",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/17/post-vs-put-la-confusion/",
+            slug: "post-vs-put-la-confusion",
+            type: "post"
+        },
+        {
+            id: 17531,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 843,
+                    postCount: 8,
+                    description: "",
+                    slug: "akka",
+                    title: "akka"
+                },
+                {
+                    id: 1438,
+                    postCount: 2,
+                    description: "",
+                    slug: "google-cloud",
+                    title: "Google Cloud"
+                },
+                {
+                    id: 1074,
+                    postCount: 3,
+                    description: "",
+                    slug: "node-js",
+                    title: "Node.js"
+                },
+                {
+                    id: 1006,
+                    postCount: 6,
+                    description: "",
+                    slug: "puppet",
+                    title: "Puppet"
+                },
+                {
+                    id: 1448,
+                    postCount: 1,
+                    description: "",
+                    slug: "sass",
+                    title: "SASS"
+                },
+                {
+                    id: 1446,
+                    postCount: 1,
+                    description: "",
+                    slug: "service-design",
+                    title: "Service Design"
+                },
+                {
+                    id: 1307,
+                    postCount: 4,
+                    description: "",
+                    slug: "testflight",
+                    title: "TestFlight"
+                },
+                {
+                    id: 1447,
+                    postCount: 1,
+                    description: "",
+                    slug: "twitch",
+                    title: "Twitch"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 347,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-13 10:57:56",
+            date: "2014-03-13 09:57:24",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité La révolution du Service Design (Par Yannick Grenzinger) L’innovation par les méthodes de management : le cas Favi (Par Ludovic Perot) Mobilité Twitch annonce un SDK mobile (Par Benjamin Lacroix) Xebia aux CocoaHeads ce jeudi 13 mars pour parler de l&rsquo;après Testflight (Par [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/13/revue-de-presse-xebia-2014-11/",
+            slug: "revue-de-presse-xebia-2014-11",
+            type: "post"
+        },
+        {
+            id: 17521,
+            commentCount: 2,
+            attachments: [ ],
+            comments: [
+                {
+                    id: 1308853,
+                    content: "&lt;p&gt;Angular est devenu en peu de temps LE framework JavaScript du moment. Bénéficiant d’un &amp;laquo;&amp;nbsp;effet waouh&amp;nbsp;&amp;raquo; impressionnant, buying viagra online in b il n’en reste pas moins que ni le framework&lt;/p&gt; &lt;p&gt;&amp;#8211;&amp;gt; dans le résumé de la page d&amp;rsquo;acceuil du blog, il y a un facheux &amp;laquo;&amp;nbsp;buying viagra online in b&amp;nbsp;&amp;raquo; qui s&amp;rsquo;insère&amp;#8230; n&amp;rsquo;apparait pas dans le détail de l&amp;rsquo;article.&lt;/p&gt;",
+                    date: "2014-03-12 09:42:33",
+                    url: "",
+                    name: "Nicolas"
+                },
+                {
+                    id: 1308860,
+                    content: "&lt;p&gt;Une fois qu&amp;rsquo;on a typé les controllers, il reste toujours les vues HTML qui empechent le refactoring rapide (qui pour moi est LE gros avantage du typage statique).&lt;/p&gt; &lt;p&gt;Par exemple, mettons que je renomme isRocky par isTelluric, la compilation va échouer pour planetColorDirectiveFactory.link et on est safe.&lt;/p&gt; &lt;p&gt;Par contre, si je renomme name, la compilation ne va pas échouer pour le template et on introduit un bug&amp;#8230;&lt;/p&gt; &lt;p&gt;Existe-t-il une solution / idée pour contrer ce point ?&lt;/p&gt;",
+                    date: "2014-03-12 12:38:05",
+                    url: "",
+                    name: "chris"
+                }
+            ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1216,
+                    postCount: 17,
+                    description: "",
+                    slug: "angularjs",
+                    title: "AngularJS"
+                },
+                {
+                    id: 1131,
+                    postCount: 5,
+                    description: "",
+                    slug: "typescript",
+                    title: "Typescript"
+                }
+            ],
+            categories: [
+                {
+                    id: 420,
+                    parent: 0,
+                    postCount: 64,
+                    description: "",
+                    slug: "architecture",
+                    title: "Architecture"
+                },
+                {
+                    id: 1156,
+                    parent: 0,
+                    postCount: 60,
+                    description: "",
+                    slug: "woa",
+                    title: "WOA"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-12 09:11:05",
+            date: "2014-03-12 08:20:00",
+            excerpt: "Angular est devenu en peu de temps LE framework JavaScript du moment. Bénéficiant d&rsquo;un &quot;effet waouh&quot; impressionnant, il n&rsquo;en reste pas moins que ni le framework, ni sa documentation, ne sont parfaits. Une partie des problèmes d&rsquo;Angular est liée à des choix &quot;logiciels&quot; (le routeur par défaut ou les directives par exemple), l&rsquo;autre partie est [&hellip;]",
+            titlePlain: "Angular et TypeScript, un mariage heureux !",
+            title: "Angular et TypeScript, un mariage heureux !",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/12/angular-et-typescript-un-mariage-heureux/",
+            slug: "angular-et-typescript-un-mariage-heureux",
+            type: "post"
+        },
+        {
+            id: 17507,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17506,
+                    parent: 17507,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "psug_logo_02.png",
+                    slug: "psug_logo_02-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/psug_logo_02.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 90,
+                    description: "Développeur et fier de l'être, Benoit s'intéresse de près à tout ce qui peut permettre de créer une application web, du HTML aux sources de données, en passant par le javascript et les framework haute productivité. twitter : @benoit_lemoine",
+                    url: "http://finandsys.com/finandsys-blog/",
+                    nickname: "blemoine",
+                    lastName: "Lemoine",
+                    firstName: "Benoît",
+                    name: "Benoît Lemoine",
+                    slug: "blemoine"
+                }
+            ],
+            tags: [
+                {
+                    id: 576,
+                    postCount: 29,
+                    description: "",
+                    slug: "paris-scala-user-group",
+                    title: "Paris Scala User Group"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 219,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-11 14:29:54",
+            date: "2014-03-11 14:18:07",
+            excerpt: "Le prochain meeting du Paris Scala User Group sera le mardi 25 mars chez Xebia à 19h30. Les inscriptions se passent ici : http://psug-43.eventbrite.fr/ Mourad DACHRAOUI nous présentera son retour d&rsquo;expérience sur Spray / RxScala / ElasticSearch, dans le cadre d&rsquo;une application e-commerce. Apres une description succincte des différents modules qui composent Spray, nous percerons [&hellip;]",
+            titlePlain: "Xebia accueille la 43ème soirée du Paris Scala User Group",
+            title: "Xebia accueille la 43ème soirée du Paris Scala User Group",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/11/xebia-accueille-la-43eme-soiree-du-paris-scala-user-group/",
+            slug: "xebia-accueille-la-43eme-soiree-du-paris-scala-user-group",
+            type: "post"
+        },
+        {
+            id: 17501,
+            commentCount: 25,
+            attachments: [ ],
+            comments: [
+                {
+                    id: 1308719,
+                    content: "&lt;p&gt;J&amp;rsquo;étais déjà tombé sur l&amp;rsquo;éditeur, il semble assez intéressant mais malheureusement pas moyen de recevoir cette fameuse invitation :(&lt;br /&gt; Du coup, les killer features présentées ici semblent encore plus alléchantes&amp;#8230;&lt;/p&gt;",
+                    date: "2014-03-11 09:57:24",
+                    url: "",
+                    name: "Bastien Jansen"
+                },
+                {
+                    id: 1308721,
+                    content: "&lt;p&gt;Pas mal du tout, j&amp;rsquo;attend avec hâte de pouvoir le tester :)&lt;/p&gt;",
+                    date: "2014-03-11 10:12:24",
+                    url: "",
+                    name: "Cédric"
+                },
+                {
+                    id: 1308722,
+                    content: "&lt;p&gt;Ah bah je veux bien une invit moi du coup :) ça a l&amp;rsquo;air d&amp;rsquo;être un bon challenger pour sublime text !&lt;/p&gt;",
+                    date: "2014-03-11 10:19:48",
+                    url: "",
+                    name: "Gautier"
+                },
+                {
+                    id: 1308724,
+                    content: "&lt;p&gt;Bonjour Bastien, on a un petit stock d&amp;rsquo;invitations à distribuer. On t&amp;rsquo;en envoie une rapidement pour que tu puisses tester. Si d&amp;rsquo;autres personnes sont intéressées, n&amp;rsquo;hésitez pas à laisser un commentaire.&lt;/p&gt;",
+                    date: "2014-03-11 10:23:36",
+                    url: "https://twitter.com/PhilippeAntoine",
+                    name: "Philippe Antoine"
+                },
+                {
+                    id: 1308725,
+                    content: "&lt;p&gt;Bonjour,&lt;br /&gt; C&amp;rsquo;est marrant de voir le buzz qui monte petit à petit autour d&amp;rsquo;Atom.io, je veux peux être de la partie. Cet outils semble prometteur.&lt;/p&gt;",
+                    date: "2014-03-11 10:25:06",
+                    url: "",
+                    name: "Olivier"
+                },
+                {
+                    id: 1308727,
+                    content: "&lt;p&gt;Ça semble prometteur!&lt;br /&gt; Je croise les doigts pour recevoir une invitation, ce sera peut être une alternative intéressante à Sublime Text.&lt;/p&gt;",
+                    date: "2014-03-11 10:27:53",
+                    url: "http://coffeebean.loicdescotte.com",
+                    name: "Loic Descotte"
+                },
+                {
+                    id: 1308730,
+                    content: "&lt;p&gt;Cool, ca fait un petit moment que j&amp;rsquo;aimerais tester l&amp;rsquo;app. Ca a l&amp;rsquo;air prometteur&lt;/p&gt; &lt;p&gt;:)&lt;/p&gt;",
+                    date: "2014-03-11 10:49:13",
+                    url: "",
+                    name: "bpo"
+                },
+                {
+                    id: 1308731,
+                    content: "&lt;p&gt;moi je veux bien jouer avec atom, l&amp;rsquo;intégration markdown a l&amp;rsquo;air top pour écrire les articles de blog et la doc des projet github&lt;/p&gt;",
+                    date: "2014-03-11 10:52:12",
+                    url: "",
+                    name: "Jean"
+                },
+                {
+                    id: 1308732,
+                    content: "&lt;p&gt;Le fond noir, c&amp;rsquo;est pour reposer les yeux des codeurs nocturne?&lt;/p&gt; &lt;p&gt;S&amp;rsquo;il reste des invits béta&amp;#8230;. Grand merci&lt;/p&gt;",
+                    date: "2014-03-11 10:52:28",
+                    url: "",
+                    name: "Samuel Dalichampt"
+                },
+                {
+                    id: 1308733,
+                    content: "&lt;p&gt;Hello, je suis aussi intéressé par une invit&amp;rsquo;&lt;/p&gt;",
+                    date: "2014-03-11 10:58:10",
+                    url: "",
+                    name: "Damien Metzler"
+                },
+                {
+                    id: 1308735,
+                    content: "&lt;p&gt;Pareil, je suis intéressé par une invite, merci Xebia !&lt;/p&gt;",
+                    date: "2014-03-11 11:20:28",
+                    url: "http://www.lteconsulting.fr",
+                    name: "Arnaud Tournier"
+                },
+                {
+                    id: 1308738,
+                    content: "&lt;p&gt;Cool ! ça à l&amp;rsquo;air sympa comme éditeur, j&amp;rsquo;aimerais le tester s&amp;rsquo;il vous reste une invit :)&lt;br /&gt; Merci !&lt;/p&gt;",
+                    date: "2014-03-11 11:58:01",
+                    url: "http://www.skorps.com",
+                    name: "David"
+                },
+                {
+                    id: 1308739,
+                    content: "&lt;p&gt;Très prometteur, s&amp;rsquo;il reste des clés, je suis preneur évidement.&lt;br /&gt; Par contre, atom serra payant visiblement. Quelqu’un à une idée du prix?&lt;/p&gt;",
+                    date: "2014-03-11 12:13:20",
+                    url: "http://blog.programmation-web.fr/",
+                    name: "jeremy"
+                },
+                {
+                    id: 1308743,
+                    content: "&lt;p&gt;Salut! Je serais bien intéressé aussi par une invitation ;-) merci d&amp;rsquo;avance.&lt;/p&gt;",
+                    date: "2014-03-11 13:02:43",
+                    url: "",
+                    name: "Émile"
+                },
+                {
+                    id: 1308744,
+                    content: "&lt;p&gt;Idem, ça fait un moment que j&amp;rsquo;ai request une invit&amp;rsquo; mais toujours rien !&lt;br /&gt; Merci Xebia s&amp;rsquo;il vous en reste :)&lt;/p&gt; &lt;p&gt;Dommage pour le côté payant, espérons que ça ne bride pas trop la communauté&amp;#8230;&lt;/p&gt;",
+                    date: "2014-03-11 13:33:12",
+                    url: "",
+                    name: "Olivier Schira"
+                },
+                {
+                    id: 1308745,
+                    content: "&lt;p&gt;Salut,&lt;br /&gt; S&amp;rsquo;il vous reste des invits je suis preneur ;)&lt;br /&gt; Merci bien&lt;/p&gt;",
+                    date: "2014-03-11 14:03:18",
+                    url: "",
+                    name: "guillaume fesquet"
+                },
+                {
+                    id: 1308746,
+                    content: "&lt;p&gt;Cet éditeur me fait penser à LightTable que j&amp;rsquo;utilise pour Clojure(Script).&lt;br /&gt; LightTable permet aussi d&amp;rsquo;écrire du JavaScript, HTML, CSS et du Python.&lt;br /&gt; Il gagne aussi à être connu.&lt;br /&gt; Néanmoins, je suis curieux de découvrir Atom.&lt;br /&gt; Merci :-)&lt;/p&gt;",
+                    date: "2014-03-11 14:14:35",
+                    url: "",
+                    name: "Hiram MADELAINE"
+                },
+                {
+                    id: 1308767,
+                    content: "&lt;p&gt;@Hiram : Malheureusement, pas du support de Clojure out-of-the-box pour l&amp;rsquo;instant.&lt;/p&gt;",
+                    date: "2014-03-11 16:36:45",
+                    url: "http://www.xebia.fr",
+                    name: "Bertrand Dechoux"
+                },
+                {
+                    id: 1308773,
+                    content: "&lt;p&gt;Bonjour&lt;br /&gt; Une invite svp.&lt;br /&gt; Merci&lt;/p&gt;",
+                    date: "2014-03-11 17:35:13",
+                    url: "",
+                    name: "sebbane"
+                },
+                {
+                    id: 1308782,
+                    content: "&lt;p&gt;Et le comparatif avec Brackets, pourquoi tout ce buzz autour d&amp;rsquo;Atom ?&lt;br /&gt; Je n&amp;rsquo;arrive pas à comprendre pourquoi tout le monde se précipite sur Atom et ignore Brackets, y a t il une réelle raison ou c&amp;rsquo;est un syndrome de Panurge ?&lt;/p&gt;",
+                    date: "2014-03-11 18:23:36",
+                    url: "",
+                    name: "Jeff MAURY"
+                },
+                {
+                    id: 1308787,
+                    content: "&lt;p&gt;@Jeff Maury&lt;br /&gt; Atom.io est effectivement en concurrence directe avec Brackets.&lt;/p&gt; &lt;p&gt;J&amp;rsquo;ai travaillé de façon ponctuelle avec Brackets ces dernières semaines et j&amp;rsquo;avoue que j&amp;rsquo;ai été agréablement surpris. Le fait que le logiciel soit en open source est un gros plus. Du côté des petits détails, j&amp;rsquo;ai aimé le support natif de CoffeeScript, et le système de plugin facile à utiliser.&lt;/p&gt; &lt;p&gt;Je n&amp;rsquo;ai cependant pas suffisamment utilisé Brackets pour le comparer de facon approfondie avec Atom. Je serai intéressé par votre retour d&amp;rsquo;expérience.&lt;/p&gt; &lt;p&gt;Nous pouvons bien sûr vous envoyer une invitation si vous voulez comparer.&lt;/p&gt;",
+                    date: "2014-03-11 19:00:21",
+                    url: "https://twitter.com/PhilippeAntoine",
+                    name: "Philippe Antoine"
+                },
+                {
+                    id: 1308803,
+                    content: "&lt;p&gt;Tout à fait d&amp;rsquo;accord avec Jeff MAURY, regardez donc du coté de Brackets : &lt;a href=&quot;http://brackets.io/&quot; rel=&quot;nofollow&quot;&gt;http://brackets.io/&lt;/a&gt;&lt;/p&gt;",
+                    date: "2014-03-11 21:02:29",
+                    url: "",
+                    name: "cornell"
+                },
+                {
+                    id: 1308807,
+                    content: "&lt;p&gt;Sympa comme article. S&amp;rsquo;il vous reste des invit&amp;rsquo; j&amp;rsquo;en veux bien une merci.&lt;/p&gt;",
+                    date: "2014-03-11 21:41:02",
+                    url: "",
+                    name: "Pierre"
+                },
+                {
+                    id: 1308820,
+                    content: "&lt;p&gt;Bonjour, s&amp;rsquo;il reste des invits je suis preneur.&lt;/p&gt; &lt;p&gt;Une version Windows de prévu ? Une idée du pricing ?&lt;/p&gt; &lt;p&gt;Merci pour l&amp;rsquo;article.&lt;/p&gt;",
+                    date: "2014-03-11 23:33:23",
+                    url: "",
+                    name: "Daco"
+                },
+                {
+                    id: 1308824,
+                    content: "&lt;p&gt;Salut la compagnie,&lt;/p&gt; &lt;p&gt;S&amp;rsquo;ils vous reste une invitation en rab, je suis preneur :) Merci d&amp;rsquo;avance&lt;/p&gt;",
+                    date: "2014-03-12 00:42:44",
+                    url: "",
+                    name: "David Cruchon"
+                }
+            ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1444,
+                    postCount: 1,
+                    description: "",
+                    slug: "atom-io",
+                    title: "Atom.io"
+                },
+                {
+                    id: 902,
+                    postCount: 9,
+                    description: "",
+                    slug: "github",
+                    title: "Github"
+                }
+            ],
+            categories: [
+                {
+                    id: 420,
+                    parent: 0,
+                    postCount: 64,
+                    description: "",
+                    slug: "architecture",
+                    title: "Architecture"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-11 09:47:19",
+            date: "2014-03-11 09:07:05",
+            excerpt: "Atom.io est un éditeur de texte développé par Github qui a beaucoup fait parler de lui ces derniers jours. Nous vous proposons de faire un premier tour du propriétaire pour comprendre les raisons de cet engouement. Si vous avez envie de le tester vous aussi, Xebia vous a mis de coté quelques invitations à la beta privée : les [&hellip;]",
+            titlePlain: "Premiers pas avec Atom.io, l'éditeur de texte de Github. Xebia vous réserve une surprise.",
+            title: "Premiers pas avec Atom.io, l'éditeur de texte de Github. Xebia vous réserve une surprise.",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/11/premiers-pas-avec-atom-io-lediteur-de-texte-de-github-xebia-vous-reserve-une-surprise/",
+            slug: "premiers-pas-avec-atom-io-lediteur-de-texte-de-github-xebia-vous-reserve-une-surprise",
+            type: "post"
+        },
+        {
+            id: 17487,
+            commentCount: 4,
+            attachments: [ ],
+            comments: [
+                {
+                    id: 1308592,
+                    content: "&lt;p&gt;Une signature intéressante sur le JsResult en plus de map est fold:&lt;/p&gt; &lt;p&gt;rs.request.body.validate[User].fold( invalid =&amp;gt; ???, valid =&amp;gt; ???)&lt;/p&gt;",
+                    date: "2014-03-10 10:59:36",
+                    url: "",
+                    name: "Jean"
+                },
+                {
+                    id: 1308597,
+                    content: "&lt;p&gt;Hello Nicolas,&lt;/p&gt; &lt;p&gt;Sympa l&amp;rsquo;article, quelques remarques cependant sur le controller.&lt;/p&gt; &lt;p&gt;- Dans le map, le fonction que tu passe étant totale, le case n&amp;rsquo;est pas nécessaire.&lt;br /&gt; - Dans le map, tu peux utiliser copy plutôt que de tout recopier: UsersService save user.copy(id = None)&lt;br /&gt; - Retourner un NotFound en cas d&amp;rsquo;erreur n&amp;rsquo;est pas top. Un petit BadRequest aurait plus de sens.&lt;br /&gt; - J&amp;rsquo;aurais plutôt renvoyé le Json de l&amp;rsquo;erreur directement afin de laisser le client la parser. Ajouter &amp;laquo;&amp;nbsp;Detected error:&amp;nbsp;&amp;raquo; n&amp;rsquo;apporte rien ici.&lt;br /&gt; - plutôt que de faire map + recover, utilises juste fold. C&amp;rsquo;est plus idiomatique&lt;br /&gt; - Play propose un bodyparser pour json que prend directement le read en paramètre: def newUser = DBAction(parse.json[User]) { &amp;#8230; }&lt;br /&gt; - Le message &amp;laquo;&amp;nbsp;User Created&amp;nbsp;&amp;raquo; n&amp;rsquo;apporte rien, autant ne pas le renvoyer. Tu pourrais soit ne pas retourner de body, ou renvoyer le User créé en Json.&lt;/p&gt; &lt;p&gt;Au final j&amp;rsquo;aurais écrit un truc du genre: &lt;/p&gt; &lt;p&gt;def newUser = DBAction(parse.json[User]) { implicit rs =&amp;gt;&lt;br /&gt; val user = rs.request.body&lt;br /&gt; UsersService save user.copy(id = None)&lt;br /&gt; Created&lt;br /&gt; }&lt;/p&gt;",
+                    date: "2014-03-10 11:20:22",
+                    url: "http://jto.github.io",
+                    name: "Julien Tournay"
+                },
+                {
+                    id: 1308604,
+                    content: "&lt;p&gt;Hey,&lt;br /&gt; Bonne initiative!&lt;br /&gt; En plus des précédents commentaires, pourrais-tu corriger les choses suivantes?&lt;/p&gt; &lt;p&gt;- &amp;laquo;&amp;nbsp;La syntaxe __ (2 underscores) est un alias pour JsPath.&amp;nbsp;&amp;raquo; : c&amp;rsquo;est surtout un alias pour dire &amp;laquo;&amp;nbsp;je cherche dans le root de mon Json&amp;nbsp;&amp;raquo;&amp;#8230;&lt;br /&gt; - keepAnd/andKeep : ton explication ne précise pas ce que c&amp;rsquo;est&amp;#8230; ça fait un AND entre 2 validateurs (de types potentiellement totalement différents) en ne gardant qu&amp;rsquo;un côté de la validation (gauche pour keepAnd &amp;amp; droite pour andKeep)&lt;br /&gt; - def lastNameReads(implicit r: Reads[String])&amp;#8230; le reads implicit ne sert pas vraiment: soit tu passes le reads explicitement, soit tu crées un Reads que tu combinerais: def lastNameReads = Reads.of[String].filter(&amp;#8230;)&lt;/p&gt;",
+                    date: "2014-03-10 11:55:26",
+                    url: "http://www.mandubian.com",
+                    name: "PAscal Voitot"
+                },
+                {
+                    id: 1308712,
+                    content: "&lt;p&gt;Bonjour,&lt;/p&gt; &lt;p&gt; Merci pour vos retours et améliorations !&lt;/p&gt; &lt;p&gt;Nicolas (Xebia)&lt;/p&gt;",
+                    date: "2014-03-11 08:53:05",
+                    url: "",
+                    name: "Nicolas Jozwiak"
+                }
+            ],
+            authors: [
+                {
+                    id: 14,
+                    description: "Nicolas est un ingénieur d'études confirmé disposant de 5 ans d'expérience de conception et développement sur technologies Java/JEE. Son parcours chez un éditeur avant son entrée chez Xebia lui a notamment permis de développer de solides compétences dans le domaine de la qualité et de l’industrialisation (tests, intégration continue, gestion de configuration, contrôle qualité). Nicolas est Scrum Master Certifié et bénéficie d’une expérience très solide de mise en place des méthodes agiles et d’accompagnement d’équipe sur le terrain. Il est reconnu pour son approche pragmatique, proactive et pédagogique.",
+                    url: "http://www.xebia.fr",
+                    nickname: "njozwiak",
+                    lastName: "Jozwiak",
+                    firstName: "Nicolas",
+                    name: "Nicolas Jozwiak",
+                    slug: "njozwiak"
+                }
+            ],
+            tags: [
+                {
+                    id: 486,
+                    postCount: 5,
+                    description: "",
+                    slug: "framework",
+                    title: "framework"
+                },
+                {
+                    id: 455,
+                    postCount: 17,
+                    description: "",
+                    slug: "play",
+                    title: "Play!"
+                },
+                {
+                    id: 79,
+                    postCount: 79,
+                    description: "",
+                    slug: "scala",
+                    title: "scala"
+                }
+            ],
+            categories: [
+                {
+                    id: 687,
+                    parent: 0,
+                    postCount: 66,
+                    description: "",
+                    slug: "craftsmanship",
+                    title: "Craftsmanship"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-10 10:32:36",
+            date: "2014-03-10 09:33:28",
+            excerpt: "Play est un framework permettant de démarrer et développer rapidement des applications Web. Ce dernier offre un large éventail d&rsquo;outils. Parmi eux, nous retrouvons la validation de règles métiers. Dans cet article, nous vous proposons de mettre en place le mécanisme de validation de Json avec Play / Scala.",
+            titlePlain: "Validez votre Json avec Play / Scala",
+            title: "Validez votre Json avec Play / Scala",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/10/validez-votre-json-avec-play-scala/",
+            slug: "validez-votre-json-avec-play-scala",
+            type: "post"
+        },
+        {
+            id: 17468,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17467,
+                    parent: 17468,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "typescript.png",
+                    slug: "typescript-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/typescript.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 90,
+                    description: "Développeur et fier de l'être, Benoit s'intéresse de près à tout ce qui peut permettre de créer une application web, du HTML aux sources de données, en passant par le javascript et les framework haute productivité. twitter : @benoit_lemoine",
+                    url: "http://finandsys.com/finandsys-blog/",
+                    nickname: "blemoine",
+                    lastName: "Lemoine",
+                    firstName: "Benoît",
+                    name: "Benoît Lemoine",
+                    slug: "blemoine"
+                }
+            ],
+            tags: [
+                {
+                    id: 1442,
+                    postCount: 1,
+                    description: "",
+                    slug: "techevents",
+                    title: "techevents"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 219,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "closed",
+            modified: "2014-03-07 14:48:24",
+            date: "2014-03-07 14:26:11",
+            excerpt: "Xebia organise dans ses locaux un hands-on sur le langage TypeScript, l&rsquo;outsider des langages alternatifs JavaScript made in Microsoft qui  présente la particularité d&rsquo;être typé statiquement à la compilation. Cet atelier sera l’occasion de découvrir ce langage, ses avantages et inconvénients et de s&rsquo;amuser avec. En deux heures, vous aurez une présentation du langage, puis [&hellip;]",
+            titlePlain: "Xebia organise un Hands-on TypeScript le 17 mars prochain",
+            title: "Xebia organise un Hands-on TypeScript le 17 mars prochain",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/07/xebia-organise-un-hands-on-typescript-le-17-mars-prochain/",
+            slug: "xebia-organise-un-hands-on-typescript-le-17-mars-prochain",
+            type: "post"
+        },
+        {
+            id: 17454,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17453,
+                    parent: 17454,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "XebiaLabs_logo_hex.png",
+                    slug: "xebialabs_logo_hex-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/XebiaLabs_logo_hex.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1317,
+                    postCount: 3,
+                    description: "",
+                    slug: "xebialabs",
+                    title: "XebiaLabs"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 219,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-07 09:32:14",
+            date: "2014-03-07 09:06:19",
+            excerpt: "",
+            titlePlain: "Le 26 mars, XebiaLabs présente son workshop  \"Continuous Delivery avec Jenkins et Deployit\" !",
+            title: "Le 26 mars, XebiaLabs présente son workshop \"Continuous Delivery avec Jenkins et Deployit\" !",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/07/le-26-mars-xebialabs-presente-son-workshop-continuous-delivery-avec-jenkins-et-deployit/",
+            slug: "le-26-mars-xebialabs-presente-son-workshop-continuous-delivery-avec-jenkins-et-deployit",
+            type: "post"
+        },
+        {
+            id: 17445,
+            commentCount: 1,
+            attachments: [ ],
+            comments: [
+                {
+                    id: 1308304,
+                    content: "&lt;p&gt;Bonjour, sauf erreur de ma part, il manque le lien vers l&amp;rsquo;article original pour la partie &amp;laquo;&amp;nbsp;5 stratégies pour passer votre site en responsive design&amp;nbsp;&amp;raquo;&lt;/p&gt;",
+                    date: "2014-03-07 19:06:28",
+                    url: "http://www.graylog2.fr",
+                    name: "sebclick"
+                }
+            ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1441,
+                    postCount: 1,
+                    description: "",
+                    slug: "code-legacy",
+                    title: "code legacy"
+                },
+                {
+                    id: 1249,
+                    postCount: 5,
+                    description: "",
+                    slug: "datastax",
+                    title: "Datastax"
+                },
+                {
+                    id: 272,
+                    postCount: 18,
+                    description: "",
+                    slug: "google-app-engine",
+                    title: "Google App Engine"
+                },
+                {
+                    id: 27,
+                    postCount: 203,
+                    description: "",
+                    slug: "methodes-agiles",
+                    title: "Méthodes agiles"
+                },
+                {
+                    id: 1099,
+                    postCount: 3,
+                    description: "",
+                    slug: "responsive-design",
+                    title: "responsive design"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 346,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-06 10:10:45",
+            date: "2014-03-06 09:25:00",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité The Seven imperatives to Keeping Meetings on Track (Par Ludovic Perot) Parler de &quot;position&quot; plutôt que de &quot;rôles&quot; (Par Emmanuel Sciara) Craftsmanship 5 personnes de votre organisation qui augmentent le code legacy (Par Yannick Grenzinger) Front 5 stratégies pour passer votre site en [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/06/revue-de-presse-xebia-2014-10/",
+            slug: "revue-de-presse-xebia-2014-10",
+            type: "post"
+        },
+        {
+            id: 17415,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17411,
+                    parent: 17415,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Flume.jpg",
+                    slug: "flume-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Flume.jpg"
+                },
+                {
+                    id: 17410,
+                    parent: 17415,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Flume1.jpg",
+                    slug: "flume1-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Flume1.jpg"
+                },
+                {
+                    id: 17412,
+                    parent: 17415,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Flume2.jpg",
+                    slug: "flume2-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Flume2.jpg"
+                },
+                {
+                    id: 17414,
+                    parent: 17415,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Agents.jpg",
+                    slug: "agents-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Agents.jpg"
+                },
+                {
+                    id: 17413,
+                    parent: 17415,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Agent.jpg",
+                    slug: "agent-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/03/Agent.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 14,
+                    description: "Nicolas est un ingénieur d'études confirmé disposant de 5 ans d'expérience de conception et développement sur technologies Java/JEE. Son parcours chez un éditeur avant son entrée chez Xebia lui a notamment permis de développer de solides compétences dans le domaine de la qualité et de l’industrialisation (tests, intégration continue, gestion de configuration, contrôle qualité). Nicolas est Scrum Master Certifié et bénéficie d’une expérience très solide de mise en place des méthodes agiles et d’accompagnement d’équipe sur le terrain. Il est reconnu pour son approche pragmatique, proactive et pédagogique.",
+                    url: "http://www.xebia.fr",
+                    nickname: "njozwiak",
+                    lastName: "Jozwiak",
+                    firstName: "Nicolas",
+                    name: "Nicolas Jozwiak",
+                    slug: "njozwiak"
+                }
+            ],
+            tags: [
+                {
+                    id: 1119,
+                    postCount: 2,
+                    description: "",
+                    slug: "flume",
+                    title: "Flume"
+                },
+                {
+                    id: 192,
+                    postCount: 56,
+                    description: "",
+                    slug: "hadoop",
+                    title: "Hadoop"
+                }
+            ],
+            categories: [
+                {
+                    id: 470,
+                    parent: 0,
+                    postCount: 79,
+                    description: "",
+                    slug: "nosql",
+                    title: "NoSQL / Big Data"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-03-03 10:22:21",
+            date: "2014-03-03 10:11:56",
+            excerpt: "Dans tous les projets informatiques, la problématique de logs est récurrente : stratégie, format, volume, etc. En cas de problème, ces derniers représentent un des premiers points d’entrée dans une application : Actions réalisées par un utilisateur ; Erreurs affectant un utilisateur. Cependant, soumises à de fortes volumétries, la collecte et l’exploitation des logs peut vite devenir [&hellip;]",
+            titlePlain: "Flume NG",
+            title: "Flume NG",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/03/03/flume-ng-2/",
+            slug: "flume-ng-2",
+            type: "post"
+        },
+        {
+            id: 17364,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 132,
+                    description: "",
+                    url: "",
+                    nickname: "Romain Niveau",
+                    lastName: "Niveau",
+                    firstName: "Romain",
+                    name: "Romain Niveau",
+                    slug: "romain-niveau"
+                }
+            ],
+            tags: [
+                {
+                    id: 100,
+                    postCount: 45,
+                    description: "",
+                    slug: "maven",
+                    title: "Maven"
+                }
+            ],
+            categories: [
+                {
+                    id: 687,
+                    parent: 0,
+                    postCount: 44,
+                    description: "",
+                    slug: "craftsmanship",
+                    title: "Craftsmanship"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-28 14:04:23",
+            date: "2014-02-28 13:53:00",
+            excerpt: "Maven est une solution de gestion de production de projets mature et connue du plus grand nombre. Sa dernière release majeure (version 3.0) date de 2010 et depuis, peu de grandes nouveautés ont été ajoutées (nous en sommes à la release 3.1.1). Dans cet article, nous allons revenir sur une fonctionnalité de Maven ancienne mais [&hellip;]",
+            titlePlain: "La notion de BOM avec Maven",
+            title: "La notion de BOM avec Maven",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/28/la-notion-de-bom-avec-maven/",
+            slug: "la-notion-de-bom-avec-maven",
+            type: "post"
+        },
+        {
+            id: 17353,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17352,
+                    parent: 17353,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "cloudera-plaque.jpg",
+                    slug: "cloudera-plaque-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/cloudera-plaque.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1080,
+                    postCount: 8,
+                    description: "",
+                    slug: "cloudera",
+                    title: "Cloudera"
+                },
+                {
+                    id: 852,
+                    postCount: 4,
+                    description: "",
+                    slug: "training",
+                    title: "Training"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 216,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-28 10:06:20",
+            date: "2014-02-28 09:53:00",
+            excerpt: "",
+            titlePlain: "Xebia, élu partenaire formation EMEA de l'année 2013 par Cloudera !",
+            title: "Xebia, élu partenaire formation EMEA de l'année 2013 par Cloudera !",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/28/xebia-elu-partenaire-formation-emea-de-lannee-2013-par-cloudera/",
+            slug: "xebia-elu-partenaire-formation-emea-de-lannee-2013-par-cloudera",
+            type: "post"
+        },
+        {
+            id: 17338,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1439,
+                    postCount: 1,
+                    description: "",
+                    slug: "ansible",
+                    title: "Ansible"
+                },
+                {
+                    id: 1438,
+                    postCount: 1,
+                    description: "",
+                    slug: "google-cloud",
+                    title: "Google Cloud"
+                },
+                {
+                    id: 1347,
+                    postCount: 5,
+                    description: "",
+                    slug: "logstash",
+                    title: "Logstash"
+                },
+                {
+                    id: 1437,
+                    postCount: 1,
+                    description: "",
+                    slug: "lxc",
+                    title: "LXC"
+                },
+                {
+                    id: 790,
+                    postCount: 4,
+                    description: "",
+                    slug: "mahout",
+                    title: "Mahout"
+                },
+                {
+                    id: 568,
+                    postCount: 7,
+                    description: "",
+                    slug: "product-owner",
+                    title: "Product Owner"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 345,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-27 09:51:04",
+            date: "2014-02-27 09:25:00",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité Construire des organisations innovantes (Par Yannick Grenzinger) Scrum’s Flawed Notion of Product Owner (Par Ludovic Perot) Mobilité MCE &#8211; Practical Runtime Hackery (Par Simone Civetta) TestFlight ne supportera plus les applications Android le 21 mars  (Par Thibaud Cavin) Front Sortie de Backbone.js 1.1.2  [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/27/revue-de-presse-xebia-2014-09/",
+            slug: "revue-de-presse-xebia-2014-09",
+            type: "post"
+        },
+        {
+            id: 17329,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17325,
+                    parent: 17329,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Image1.png",
+                    slug: "image1-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Image1.png"
+                },
+                {
+                    id: 17326,
+                    parent: 17329,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Image2.png",
+                    slug: "image2-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Image2.png"
+                },
+                {
+                    id: 17327,
+                    parent: 17329,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Image4.png",
+                    slug: "image4-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Image4.png"
+                },
+                {
+                    id: 17328,
+                    parent: 17329,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Image3.png",
+                    slug: "image3-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Image3.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 102,
+                    description: "18 années d’expériences, dont 14 années en pilotage et direction de projets Mainframe et NTIC (Forfait, Assistance Technique, TMA, Centre de Services). Depuis 2009, j'ai découvert avec enthousiasme le monde de l'agilité, au travers de la réalisation de projets IT Scrum ou je suis intervenu en tant que Scrum Master et Consultant Agile (Crédit Agricole S.A., GENERALI, Banque de France, CNSA). En 2012, j'ai rejoins la société XEBIA ou j'interviens en tant que Consultant et Formateur (BI-SAM ; Voyage SNCF.com ; SFR ; Française Des Jeux ; Europcar ; AXA) sur les pratiques Agile et plus particulièrement le Kanban.",
+                    url: "http://blog.xebia.fr/",
+                    nickname: "cfarfra",
+                    lastName: "Farfra",
+                    firstName: "Couthaïer",
+                    name: "Couthaïer Farfra",
+                    slug: "cfarfra"
+                }
+            ],
+            tags: [
+                {
+                    id: 1436,
+                    postCount: 1,
+                    description: "",
+                    slug: "flux",
+                    title: "flux"
+                },
+                {
+                    id: 269,
+                    postCount: 48,
+                    description: "",
+                    slug: "kanban",
+                    title: "Kanban"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 165,
+                    description: "",
+                    slug: "agilite",
+                    title: "Méthodes agiles"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-26 10:52:24",
+            date: "2014-02-26 10:39:36",
+            excerpt: "Un soir, en rentrant chez moi, je me retrouve face à un blocage de ma rame de métro préférée. Ne prenant que mon courage à deux mains, je décide de rejoindre ma prochaine station à pied, en empruntant la plus belle avenue du monde… Les Champs Elysées.   J&rsquo;arrive au niveau d&rsquo;une boutique d&rsquo;une célèbre [&hellip;]",
+            titlePlain: "Vous voulez gagner du temps ? Limitez le flux (kanban)",
+            title: "Vous voulez gagner du temps ? Limitez le flux (kanban)",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/26/vous-voulez-gagner-du-temps-limitez-le-flux-kanban/",
+            slug: "vous-voulez-gagner-du-temps-limitez-le-flux-kanban",
+            type: "post"
+        },
+        {
+            id: 17240,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17239,
+                    parent: 17240,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "WP_20140225_002.jpg",
+                    slug: "wp_20140225_002-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/WP_20140225_002.jpg"
+                },
+                {
+                    id: 17245,
+                    parent: 17240,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "CD-Guide.png",
+                    slug: "cd-guide-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/CD-Guide.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 781,
+                    postCount: 16,
+                    description: "",
+                    slug: "continuous-delivery",
+                    title: "Continuous Delivery"
+                },
+                {
+                    id: 53,
+                    postCount: 119,
+                    description: "",
+                    slug: "scrum",
+                    title: "SCRUM"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 215,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-25 12:01:00",
+            date: "2014-02-25 14:00:00",
+            excerpt: "Xebia et XebiaLabs sont très fiers d&rsquo;annoncer la publication ce mois-ci du livre &laquo;&nbsp;The Manager&rsquo;s Guide to Continuous Delivery&nbsp;&raquo;. Il s&rsquo;agit du premier livre qui aide les managers à comprendre les principes sous-jacents au Continuous Delivery. Cet ouvrage décrit la transition d&rsquo;une organisation classique vers une organisation Continuous Delivery et fournit des conseils pratiques permettant [&hellip;]",
+            titlePlain: "Publication du Manager's Guide to Continuous Delivery",
+            title: "Publication du Manager's Guide to Continuous Delivery",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/25/publication-du-managers-guide-to-continuous-delivery/",
+            slug: "publication-du-managers-guide-to-continuous-delivery",
+            type: "post"
+        },
+        {
+            id: 17235,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17232,
+                    parent: 17235,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "gulp-2x.png",
+                    slug: "gulp-2x-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/gulp-2x.png"
+                },
+                {
+                    id: 17233,
+                    parent: 17235,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "js.png",
+                    slug: "js-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/js.png"
+                },
+                {
+                    id: 17234,
+                    parent: 17235,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "js2.png",
+                    slug: "js2-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/js2.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 90,
+                    description: "Développeur et fier de l'être, Benoit s'intéresse de près à tout ce qui peut permettre de créer une application web, du HTML aux sources de données, en passant par le javascript et les framework haute productivité. twitter : @benoit_lemoine",
+                    url: "http://finandsys.com/finandsys-blog/",
+                    nickname: "blemoine",
+                    lastName: "Lemoine",
+                    firstName: "Benoît",
+                    name: "Benoît Lemoine",
+                    slug: "blemoine"
+                }
+            ],
+            tags: [
+                {
+                    id: 537,
+                    postCount: 3,
+                    description: "",
+                    slug: "build",
+                    title: "build"
+                },
+                {
+                    id: 1435,
+                    postCount: 1,
+                    description: "",
+                    slug: "grunt",
+                    title: "Grunt"
+                },
+                {
+                    id: 173,
+                    postCount: 46,
+                    description: "",
+                    slug: "javascript",
+                    title: "JavaScript"
+                },
+                {
+                    id: 764,
+                    postCount: 5,
+                    description: "",
+                    slug: "nodejs",
+                    title: "NodeJS"
+                }
+            ],
+            categories: [
+                {
+                    id: 1156,
+                    parent: 0,
+                    postCount: 59,
+                    description: "",
+                    slug: "woa",
+                    title: "WOA"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-25 09:04:58",
+            date: "2014-02-25 09:01:26",
+            excerpt: "Gulp est un nouveau venu dans le monde nodejs, et se veut être un outil de build moderne et puissant, visant à détrôner grunt de sa mainmise sur le monde du build. Mais tout d&rsquo;abord, qu&rsquo;est ce qu&rsquo;un outil de build ? C&rsquo;est un programme destiné à l&rsquo;organisation et l&rsquo;exécution des tâches composant un build, par [&hellip;]",
+            titlePlain: "Gulp, le nouvel outil de build pour node",
+            title: "Gulp, le nouvel outil de build pour node",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/25/gulp-le-nouvel-outil-de-build-pour-node/",
+            slug: "gulp-le-nouvel-outil-de-build-pour-node",
+            type: "post"
+        },
+        {
+            id: 17218,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17214,
+                    parent: 17218,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "HockeyApp1.png",
+                    slug: "hockeyapp1-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/HockeyApp1.png"
+                },
+                {
+                    id: 17215,
+                    parent: 17218,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Screen-Shot-2014-02-09-at-19.39.42.png",
+                    slug: "screen-shot-2014-02-09-at-19-39-42-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Screen-Shot-2014-02-09-at-19.39.42.png"
+                },
+                {
+                    id: 17216,
+                    parent: 17218,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Screen-Shot-2013-11-29-at-01.39.51.png",
+                    slug: "screen-shot-2013-11-29-at-01-39-51-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Screen-Shot-2013-11-29-at-01.39.51.png"
+                },
+                {
+                    id: 17217,
+                    parent: 17218,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Screen-Shot-2014-02-10-at-00.03.44.png",
+                    slug: "screen-shot-2014-02-10-at-00-03-44-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Screen-Shot-2014-02-10-at-00.03.44.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 106,
+                    description: "",
+                    url: "http://viteinfinite.com",
+                    nickname: "scivetta",
+                    lastName: "Civetta",
+                    firstName: "Simone",
+                    name: "Simone Civetta",
+                    slug: "scivetta"
+                }
+            ],
+            tags: [
+                {
+                    id: 1434,
+                    postCount: 1,
+                    description: "",
+                    slug: "deploiement-continu",
+                    title: "Déploiement continu"
+                },
+                {
+                    id: 1433,
+                    postCount: 1,
+                    description: "",
+                    slug: "hockeyapp",
+                    title: "HockeyApp"
+                },
+                {
+                    id: 1307,
+                    postCount: 3,
+                    description: "",
+                    slug: "testflight",
+                    title: "TestFlight"
+                }
+            ],
+            categories: [
+                {
+                    id: 265,
+                    parent: 0,
+                    postCount: 46,
+                    description: "",
+                    slug: "mobilite",
+                    title: "Mobilité"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-24 09:05:24",
+            date: "2014-02-24 08:49:38",
+            excerpt: "Nous vous parlions de la qualité et l&rsquo;industrialisation des développements mobiles sur iOS &amp; Android dans un précédent article et, à cette occasion, nous avions évoqué TestFlight comme solution permettant la gestion de vos builds mobiles et leur diffusion auprès de vos testeurs. Dans cet article, nous allons revenir sur cet outil afin de proposer [&hellip;]",
+            titlePlain: "TestFlight, HockeyApp et le déploiement continu",
+            title: "TestFlight, HockeyApp et le déploiement continu",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/24/testflight-hockeyapp-et-le-deploiement-continu/",
+            slug: "testflight-hockeyapp-et-le-deploiement-continu",
+            type: "post"
+        },
+        {
+            id: 17203,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17202,
+                    parent: 17203,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "logo_devoxx_france.JPG",
+                    slug: "logo_devoxx_france-jpg",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/logo_devoxx_france.jpg"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 434,
+                    postCount: 60,
+                    description: "",
+                    slug: "devoxx",
+                    title: "Devoxx"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 214,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-21 15:04:09",
+            date: "2014-02-21 14:46:25",
+            excerpt: "Les résultats des CFP Devoxx sont tombés mardi matin : 2 conférences, 2 workshop, 3 tools in action, 1 Hand&rsquo;s On et 5 quickies seront présentés par des Xebians ! Les Xebians vous ont concocté un beau programme : La conférence &quot; L&rsquo;internet des objets investit DevoxxFrance &quot; par Pablo Lopez La conférence &quot; JavaScript the next big &#8230; bytecode [&hellip;]",
+            titlePlain: "Xebia, très bien représenté à Devoxx 2014 !",
+            title: "Xebia, très bien représenté à Devoxx 2014 !",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/21/xebia-tres-bien-represente-a-devoxx-2014/",
+            slug: "xebia-tres-bien-represente-a-devoxx-2014",
+            type: "post"
+        },
+        {
+            id: 17193,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 91,
+                    description: "",
+                    url: "http://blog.xebia.fr",
+                    nickname: "rchevalier",
+                    lastName: "Chevalier",
+                    firstName: "Renaud",
+                    name: "Renaud Chevalier",
+                    slug: "rchevalier"
+                }
+            ],
+            tags: [
+                {
+                    id: 27,
+                    postCount: 202,
+                    description: "",
+                    slug: "methodes-agiles",
+                    title: "Méthodes agiles"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 164,
+                    description: "",
+                    slug: "agilite",
+                    title: "Méthodes agiles"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-21 09:50:27",
+            date: "2014-02-21 09:33:55",
+            excerpt: "Un jour de formation User Story Academy, un stagiaire m’interpèle et me dit : «  Et ma doc alors ? ». Tout d&rsquo;un coup, le silence, LA question était tombée ! Vous savez, cette fameuse question qui met à mal l’agilité, que l’on vous pose à chaque fois, celle qui fait débat, où personne n’est jamais d’accord [&hellip;]",
+            titlePlain: "Monsieur le coach, et ma doc alors ?",
+            title: "Monsieur le coach, et ma doc alors ?",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/21/monsieur-le-coach-et-ma-doc-alors/",
+            slug: "monsieur-le-coach-et-ma-doc-alors",
+            type: "post"
+        },
+        {
+            id: 17184,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1216,
+                    postCount: 16,
+                    description: "",
+                    slug: "angularjs",
+                    title: "AngularJS"
+                },
+                {
+                    id: 1271,
+                    postCount: 1,
+                    description: "",
+                    slug: "glassfish-4-0",
+                    title: "Glassfish 4.0"
+                },
+                {
+                    id: 806,
+                    postCount: 3,
+                    description: "",
+                    slug: "java-ee-7",
+                    title: "Java EE 7"
+                },
+                {
+                    id: 1220,
+                    postCount: 12,
+                    description: "",
+                    slug: "lean-startup",
+                    title: "lean startup"
+                },
+                {
+                    id: 27,
+                    postCount: 201,
+                    description: "",
+                    slug: "methodes-agiles",
+                    title: "Méthodes agiles"
+                },
+                {
+                    id: 265,
+                    postCount: 12,
+                    description: "",
+                    slug: "mobilite",
+                    title: "Mobilité"
+                },
+                {
+                    id: 1270,
+                    postCount: 1,
+                    description: "",
+                    slug: "product-ownership",
+                    title: "Product Ownership"
+                },
+                {
+                    id: 62,
+                    postCount: 15,
+                    description: "",
+                    slug: "web",
+                    title: "Web"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 344,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-20 10:14:26",
+            date: "2014-02-20 09:00:00",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité Scaling Scrum to the Organisation (Par Emmanuel Sciara) Scrum pong game (Par Sébastien Gaudin) Web Ce que vous avez toujours voulu savoir sur CSS (Par Yannick Grenzinger) DevOps Transformation DevOps chez HP, une bonne impression (Par Loïc Doin) Le coin de la technique [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/20/revue-de-presse-xebia-2014-08/",
+            slug: "revue-de-presse-xebia-2014-08",
+            type: "post"
+        },
+        {
+            id: 17162,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17161,
+                    parent: 17162,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "puppet-labs-logo.png",
+                    slug: "puppet-labs-logo-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/puppet-labs-logo.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 117,
+                    description: "",
+                    url: "http://blog.xebia.fr",
+                    nickname: "mnantern",
+                    lastName: "Nantern",
+                    firstName: "Matthieu",
+                    name: "Matthieu Nantern",
+                    slug: "mnantern"
+                }
+            ],
+            tags: [
+                {
+                    id: 1432,
+                    postCount: 1,
+                    description: "",
+                    slug: "hierarchiser",
+                    title: "hiérarchiser"
+                },
+                {
+                    id: 1006,
+                    postCount: 5,
+                    description: "",
+                    slug: "puppet",
+                    title: "Puppet"
+                },
+                {
+                    id: 1005,
+                    postCount: 3,
+                    description: "",
+                    slug: "puppetlabs",
+                    title: "PuppetLabs"
+                }
+            ],
+            categories: [
+                {
+                    id: 784,
+                    parent: 0,
+                    postCount: 28,
+                    description: "",
+                    slug: "devops",
+                    title: "DevOps"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-19 08:56:26",
+            date: "2014-02-19 08:50:47",
+            excerpt: "Nous avons vu dans le premier article comment gérer les fichiers avec Puppet. La ressource &laquo;&nbsp;file&nbsp;&raquo; associée aux ressources &laquo;&nbsp;service&nbsp;&raquo; et &laquo;&nbsp;package&nbsp;&raquo; constituent la base de nos classes Puppet. Nous aurons également besoin de fournir des données à nos classes que ça soit des paramètres par défaut ou spécifiques à notre environnement, application ou serveur. [&hellip;]",
+            titlePlain: "Puppet recipes 02 : Hiera",
+            title: "Puppet recipes 02 : Hiera",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/19/puppet-recipes-02-hiera/",
+            slug: "puppet-recipes-02-hiera",
+            type: "post"
+        },
+        {
+            id: 17155,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 87,
+                    description: "Consultant Java &amp; Software Craftsman. Blog personnel : <a href=\"http://diegolemos.net/\">http://diegolemos.net</a> / Twitter : <a href=\"https://twitter.com/dlresende\">@dlresende</a>.",
+                    url: "http://diegolemos.net/",
+                    nickname: "dlemos",
+                    lastName: "Lemos",
+                    firstName: "Diego",
+                    name: "Diego Lemos",
+                    slug: "dlemos"
+                }
+            ],
+            tags: [
+                {
+                    id: 129,
+                    postCount: 17,
+                    description: "",
+                    slug: "tdd",
+                    title: "TDD"
+                }
+            ],
+            categories: [
+                {
+                    id: 81,
+                    parent: 0,
+                    postCount: 12,
+                    description: "",
+                    slug: "tests",
+                    title: "Tests"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-18 09:58:57",
+            date: "2014-02-18 09:18:22",
+            excerpt: "On entend souvent dire que l&rsquo;héritage c&rsquo;est le mal. Mais quelles sont les justifications à ce type d&rsquo;assertions ? Pourquoi faut-il favoriser la composition plutôt que l&rsquo;héritage ? Avec ce screencast vous allez pouvoir observer une application concrète de ce principe. Diego et Sébastian se livrent à un ping pong TDD afin d&rsquo;aboutir à un [&hellip;]",
+            titlePlain: "Screencast Bonus Calculator",
+            title: "Screencast Bonus Calculator",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/18/screencast-bonus-calculator/",
+            slug: "screencast-bonus-calculator",
+            type: "post"
+        },
+        {
+            id: 17145,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17153,
+                    parent: 17145,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "logo-wsug",
+                    slug: "logo-wsug",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/logo-wsug.png"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 1431,
+                    postCount: 1,
+                    description: "",
+                    slug: "wsug",
+                    title: "WSUG"
+                }
+            ],
+            categories: [
+                {
+                    id: 18,
+                    parent: 0,
+                    postCount: 213,
+                    description: "",
+                    slug: "divers",
+                    title: "Divers"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-17 16:08:57",
+            date: "2014-02-17 16:51:00",
+            excerpt: "Ne manquez pas la prochaine soirée du Winter Summer User Group (WSUG), qui se tiendra le 27 février prochain, à 19h30, dans les locaux de Xebia. Cette soirée est l&rsquo;occasion pour Éric Bottard, Commiter chez Pivotal, de nous parler de Spring XD en long en large et en travers ! Ainsi, vous découvrirez : les motivations derrière XD le lien avec [&hellip;]",
+            titlePlain: "Le 27 février, Xebia accueille le WSUG #4",
+            title: "Le 27 février, Xebia accueille le WSUG #4",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/17/le-27-fevrier-xebia-accueille-le-wsug-4/",
+            slug: "le-27-fevrier-xebia-accueille-le-wsug-4",
+            type: "post"
+        },
+        {
+            id: 17117,
+            commentCount: 0,
+            attachments: [
+                {
+                    id: 17104,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-16-19-28-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-16.19.28.png"
+                },
+                {
+                    id: 17123,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-les-routes-du-Kanban-1",
+                    slug: "sur-les-routes-du-kanban-1",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/sur-les-routes-du-Kanban-1.png"
+                },
+                {
+                    id: 17105,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-16-20-30-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-16.20.30.png"
+                },
+                {
+                    id: 17106,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-16-15-04-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-16.15.04.png"
+                },
+                {
+                    id: 17107,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-16-34-40-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-16.34.40.png"
+                },
+                {
+                    id: 17108,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-22-33-28-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-22.33.28.png"
+                },
+                {
+                    id: 17109,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-16-41-35-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-16.41.35.png"
+                },
+                {
+                    id: 17110,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-16-15-08-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-16.15.08.png"
+                },
+                {
+                    id: 17111,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-16-15-00-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-16.15.00.png"
+                },
+                {
+                    id: 17112,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-13-a-11-22-48-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-13-à-11.22.48.png"
+                },
+                {
+                    id: 17114,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "sur-la-route-du-kanban",
+                    slug: "capture-decran-2014-02-12-a-22-51-45-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-22.51.45.png"
+                },
+                {
+                    id: 17115,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Capture-d’écran-2014-02-12-à-22.33.37.png",
+                    slug: "capture-decran-2014-02-12-a-22-33-37-png",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Capture-d’écran-2014-02-12-à-22.33.37.png"
+                },
+                {
+                    id: 17116,
+                    parent: 17117,
+                    mimeType: "",
+                    caption: "",
+                    description: "",
+                    title: "Template-Code-de-la-route-Kanban.pdf",
+                    slug: "template-code-de-la-route-kanban-pdf",
+                    url: "http://blog.xebia.fr/wp-content/uploads/2014/02/Template-Code-de-la-route-Kanban.pdf"
+                }
+            ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 102,
+                    description: "18 années d’expériences, dont 14 années en pilotage et direction de projets Mainframe et NTIC (Forfait, Assistance Technique, TMA, Centre de Services). Depuis 2009, j'ai découvert avec enthousiasme le monde de l'agilité, au travers de la réalisation de projets IT Scrum ou je suis intervenu en tant que Scrum Master et Consultant Agile (Crédit Agricole S.A., GENERALI, Banque de France, CNSA). En 2012, j'ai rejoins la société XEBIA ou j'interviens en tant que Consultant et Formateur (BI-SAM ; Voyage SNCF.com ; SFR ; Française Des Jeux ; Europcar ; AXA) sur les pratiques Agile et plus particulièrement le Kanban.",
+                    url: "http://blog.xebia.fr/",
+                    nickname: "cfarfra",
+                    lastName: "Farfra",
+                    firstName: "Couthaïer",
+                    name: "Couthaïer Farfra",
+                    slug: "cfarfra"
+                }
+            ],
+            tags: [
+                {
+                    id: 269,
+                    postCount: 47,
+                    description: "",
+                    slug: "kanban",
+                    title: "Kanban"
+                }
+            ],
+            categories: [
+                {
+                    id: 15,
+                    parent: 0,
+                    postCount: 163,
+                    description: "",
+                    slug: "agilite",
+                    title: "Méthodes agiles"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-14 14:48:53",
+            date: "2014-02-14 13:41:54",
+            excerpt: "Le Kanban est une pratique Agile et Lean ayant trois règles principales : Visualiser le flux ; Limiter le flux ; Gérer le flux tiré. La gestion de ces trois règles passe par le Management Visuel, c&rsquo;est à dire la visualisation des activités réalisées sur l&rsquo;ensemble de la chaine de production d&rsquo;un produit. Le Management [&hellip;]",
+            titlePlain: "Sur la route du Kanban",
+            title: "Sur la route du Kanban",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/14/sur-la-route-du-kanban/",
+            slug: "sur-la-route-du-kanban",
+            type: "post"
+        },
+        {
+            id: 17100,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 111,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "mmoizard",
+                    lastName: "Moizard-Lanvin",
+                    firstName: "Martin",
+                    name: "Martin Moizard-Lanvin",
+                    slug: "mmoizard"
+                }
+            ],
+            tags: [
+                {
+                    id: 264,
+                    postCount: 65,
+                    description: "",
+                    slug: "android",
+                    title: "Android"
+                },
+                {
+                    id: 815,
+                    postCount: 30,
+                    description: "",
+                    slug: "ios",
+                    title: "iOS"
+                },
+                {
+                    id: 583,
+                    postCount: 6,
+                    description: "",
+                    slug: "websocket",
+                    title: "WebSocket"
+                }
+            ],
+            categories: [
+                {
+                    id: 265,
+                    parent: 0,
+                    postCount: 45,
+                    description: "",
+                    slug: "mobilite",
+                    title: "Mobilité"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-14 09:44:57",
+            date: "2014-02-14 09:24:55",
+            excerpt: "D’année en année, les exigences des consommateurs d’applications mobiles ont drastiquement changé. Dorénavant, les utilisateurs souhaitent voir les données de leurs applications évoluer en temps réel. Que les applications soient des applications de finance, de collaboration, des réseaux sociaux ou encore des jeux, il est impératif que les données soient « poussées » directement sur l’appareil, et [&hellip;]",
+            titlePlain: "Communications en temps réel avec WebSocket sur iOS (et Android)",
+            title: "Communications en temps réel avec WebSocket sur iOS (et Android)",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/14/communications-en-temps-reel-avec-websocket-sur-ios-et-android/",
+            slug: "communications-en-temps-reel-avec-websocket-sur-ios-et-android",
+            type: "post"
+        },
+        {
+            id: 17094,
+            commentCount: 0,
+            attachments: [ ],
+            comments: [ ],
+            authors: [
+                {
+                    id: 12,
+                    description: "",
+                    url: "http://www.xebia.fr",
+                    nickname: "Xebia France",
+                    lastName: "France",
+                    firstName: "Xebia",
+                    name: "Xebia France",
+                    slug: "xebiafrance"
+                }
+            ],
+            tags: [
+                {
+                    id: 536,
+                    postCount: 21,
+                    description: "",
+                    slug: "cassandra",
+                    title: "Cassandra"
+                },
+                {
+                    id: 1430,
+                    postCount: 1,
+                    description: "",
+                    slug: "icepick",
+                    title: "Icepick"
+                },
+                {
+                    id: 27,
+                    postCount: 200,
+                    description: "",
+                    slug: "methodes-agiles",
+                    title: "Méthodes agiles"
+                }
+            ],
+            categories: [
+                {
+                    id: 3,
+                    parent: 0,
+                    postCount: 343,
+                    description: "",
+                    slug: "revue-de-presse",
+                    title: "Revue de presse"
+                }
+            ],
+            commentStatus: "open",
+            modified: "2014-02-13 10:03:09",
+            date: "2014-02-13 09:51:00",
+            excerpt: "La revue de presse hebdomadaire des écosystèmes Java/JEE proposée par Xebia. Agilité GetKanban Vs Kanbanzine (Par Renaud Chevalier) 7 étapes pour construire un kanban des obstacles de l&#39;équipe scrum (Par Couthaïer Farfra) Mobilité Android - Sortie d&#39;Icepick 2.3.1 pour simplifier la conservation d&#39;état lors d&#39;un changement de configuration (Par Gautier Mechling) Web  Exemples d&#39;éléments UI (Par [&hellip;]",
+            titlePlain: "Revue de Presse Xebia",
+            title: "Revue de Presse Xebia",
+            status: "publish",
+            url: "http://blog.xebia.fr/2014/02/13/revue-de-presse-xebia-2014-07/",
+            slug: "revue-de-presse-xebia-2014-07",
+            type: "post"
+        }
+    ]
+}

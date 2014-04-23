@@ -1,0 +1,85 @@
+{
+    post: {
+        id: 17993,
+        commentCount: 0,
+        attachments: [],
+        comments: [ ],
+        authors: [],
+        tags: [],
+        categories: [],
+        commentStatus: "open",
+        modified: "2014-04-15 09:15:43",
+        date: "2014-04-15 09:00:43",
+        excerpt: "Devoxx France se tient les 16, 17 et 18 avril prochain. À cette occasion, Xebia vous propose une application native Android vous permettant de visionner le planning, le détail des conférences, des speakers et vos votes directement depuis l&rsquo;application. Fonctionnalités Cette application vous permettra donc de consulter : le planning de l&rsquo;événement (date et horaire), le [&hellip;]",
+        structuredContent: [
+            {
+                text: "Devoxx France se tient les 16, 17 et 18 avril prochain. À cette occasion, Xebia vous propose une application native <STRONG>Android</STRONG> vous permettant de visionner le <STRONG>planning</STRONG>, le détail des <STRONG>conférences</STRONG>, des <STRONG>speakers</STRONG> et vos <STRONG>votes</STRONG> directement depuis l'application.",
+                type: "P",
+                attributes: [ ]
+            },
+            {
+                text: "Fonctionnalités",
+                type: "H2",
+                attributes: [ ]
+            },
+            {
+                text: "Cette application vous permettra donc de consulter :",
+                type: "P",
+                attributes: [ ]
+            },
+            {
+                text: "<LI><STRONG>le planning</STRONG> de l'événement (date et horaire),</LI><LI>le classement par <STRONG>track</STRONG> (Agilité, Cloud, Future, Java, etc.),</LI><LI>la présentation des<STRONG> speakers</STRONG> (présentation, tweeter, etc.),</LI><LI>les détails des <STRONG>conférences,</STRONG></LI><LI>les <STRONG>votes</STRONG> données à la fin des conférences avec un badge NFC.</LI>",
+                type: "UL",
+                attributes: [ ]
+            },
+            {
+                text: "Elle fonctionne en mode <STRONG>offline</STRONG> et est compatible avec les principaux téléphones Android. NB : les votes sont anonymes (vous devez lier votre badge avec votre terminal pour consulter les votes effectués avec votre badge).",
+                type: "P",
+                attributes: [ ]
+            },
+            {
+                text: "Installation",
+                type: "H2",
+                attributes: [ ]
+            },
+            {
+                type: "IMG",
+                attributes: [
+                    {
+                        value: "http://blog.xebia.fr/wp-content/uploads/2014/04/xebia_devoxx_app-240x400.png",
+                        key: "src"
+                    },
+                    {
+                        value: "http://blog.xebia.fr/wp-content/uploads/2014/04/xebia_devoxx_app.png",
+                        key: "href"
+                    }
+                ]
+            },
+            {
+                type: "IMG",
+                attributes: [
+                    {
+                        value: "http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx_talk-240x400.png",
+                        key: "src"
+                    },
+                    {
+                        value: "http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx_talk.png",
+                        key: "href"
+                    }
+                ]
+            },
+            {
+                text: "Bravo à Thomas G <A href=\"https://twitter.com/Tom404_\">@Tom404_</A> (surtout) & Benjamin L <A href=\"https://twitter.com/benjlacroix\">@benjlacroix</A> (un peu) pour le développement de cette app. Bon Devoxx à tous.",
+                type: "P",
+                attributes: [ ]
+            }
+        ],
+        content: "Devoxx France se tient les 16, 17 et 18 avril prochain. À cette occasion, Xebia vous propose une application native <strong>Android</strong> vous permettant de visionner le <strong>planning</strong>, le détail des <strong>conférences</strong>, des <strong>speakers</strong> et vos <strong>votes</strong> directement depuis l'application. <span id=\"more-17993\"></span> <h2 id=\"ApplicationDevoxxFrancepourAndroid-Fonctionnalités\">Fonctionnalités</h2> Cette application vous permettra donc de consulter : <ul> <li><strong>le planning</strong> de l'événement (date et horaire),</li> <li>le classement par <strong>track</strong> (Agilité, Cloud, Future, Java, etc.),</li> <li>la présentation des<strong> speakers</strong> (présentation, tweeter, etc.),</li> <li>les détails des <strong>conférences,</strong></li> <li>les <strong>votes</strong> données à la fin des conférences avec un badge NFC.</li> </ul> Elle fonctionne en mode <strong>offline</strong> et est compatible avec les principaux téléphones Android. NB : les votes sont anonymes (vous devez lier votre badge avec votre terminal pour consulter les votes effectués avec votre badge). <h2 id=\"ApplicationDevoxxFrancepourAndroid-Installation\">Installation</h2> <p> <table> <tbody> <tr> <th>Google Play Store</th> </tr> <tr> <td><a href=\"http://bit.ly/devoxx-android\" rel=\"nofollow\">http://bit.ly/devoxx-android</a></td> </tr> <tr> <td colspan=\"1\"><img alt=\"\" src=\"http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx-android-qr.png\" /></td> </tr> </tbody> </table> </p> <a href=\"http://blog.xebia.fr/wp-content/uploads/2014/04/xebia_devoxx_app.png\" target=\"_blank\"><img alt=\"\" src=\"http://blog.xebia.fr/wp-content/uploads/2014/04/xebia_devoxx_app-240x400.png\" width=\"300\" /></a>  <a href=\"http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx_talk.png\" target=\"_blank\"><img alt=\"\" src=\"http://blog.xebia.fr/wp-content/uploads/2014/04/devoxx_talk-240x400.png\" width=\"300\" /></a> Bravo à Thomas G <a href=\"https://twitter.com/Tom404_\" rel=\"nofollow\">@Tom404_</a> (surtout) &amp; Benjamin L <a href=\"https://twitter.com/benjlacroix\" rel=\"nofollow\">@benjlacroix</a> (un peu) pour le développement de cette app. Bon Devoxx à tous.",
+        titlePlain: "Application Devoxx France pour Android",
+        title: "Application Devoxx France pour Android",
+        status: "publish",
+        url: "http://blog.xebia.fr/2014/04/15/application-devoxx-france-pour-android/",
+        slug: "application-devoxx-france-pour-android",
+        type: "post"
+    }
+}
