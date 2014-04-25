@@ -1,9 +1,9 @@
 package fr.xebia.app.api;
 
-import fr.xebia.app.model.Category;
-import fr.xebia.app.model.PostList;
-import fr.xebia.app.model.PostResponse;
-import fr.xebia.app.model.Tag;
+import fr.xebia.app.model.blog.Category;
+import fr.xebia.app.model.blog.PostList;
+import fr.xebia.app.model.blog.PostResponse;
+import fr.xebia.app.model.blog.Tag;
 import retrofit.http.GET;
 import retrofit.http.Path;
 

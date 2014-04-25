@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="xebia">#6a205f</color>
+    <color name="xebia_alpha">#516a205f</color>
 </resources>

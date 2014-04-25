@@ -3,7 +3,7 @@ package fr.xebia.app.job;
 import android.content.Context;
 import de.greenrobot.event.EventBus;
 import fr.xebia.app.event.PostListRetrievedEvent;
-import fr.xebia.app.model.Post;
+import fr.xebia.app.model.blog.Post;
 
 import java.util.ArrayList;
 

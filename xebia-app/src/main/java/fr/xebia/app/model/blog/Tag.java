@@ -1,21 +1,21 @@
-package fr.xebia.app.model;
+package fr.xebia.app.model.blog;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class Category implements Parcelable {
+public class Tag implements Parcelable {
 
-    public static final Parcelable.Creator<Category> CREATOR
-            = new Parcelable.Creator<Category>() {
+    public static final Parcelable.Creator<Tag> CREATOR
+            = new Parcelable.Creator<Tag>() {
 
-        public Category createFromParcel(Parcel in) {
-            return new Category(in);
+        public Tag createFromParcel(Parcel in) {
+            return new Tag(in);
         }
 
-        public Category[] newArray(int size) {
-            return new Category[size];
+        public Tag[] newArray(int size) {
+            return new Tag[size];
         }
     };
     private long id;
@@ -23,17 +23,17 @@ public class Category implements Parcelable {
     private String description;
     private String title;
 
-    public Category() {
+    public Tag() {
     }
 
-    Category(long id, int postCount, String description, String title) {
+    Tag(long id, int postCount, String description, String title) {
         this.id = id;
         this.postCount = postCount;
         this.description = description;
         this.title = title;
     }
 
-    private Category(Parcel in) {
+    private Tag(android.os.Parcel in) {
         id = in.readLong();
         postCount = in.readInt();
         description = in.readString();
@@ -90,22 +90,22 @@ public class Category implements Parcelable {
         if (this == o) {
             return true;
         }
-        if (!(o instanceof Category)) {
+        if (!(o instanceof Tag)) {
             return false;
         }
 
-        Category category = (Category) o;
+        Tag tag = (Tag) o;
 
-        if (id != category.id) {
+        if (id != tag.id) {
             return false;
         }
-        if (postCount != category.postCount) {
+        if (postCount != tag.postCount) {
             return false;
         }
-        if (description != null ? !description.equals(category.description) : category.description != null) {
+        if (description != null ? !description.equals(tag.description) : tag.description != null) {
             return false;
         }
-        if (title != null ? !title.equals(category.title) : category.title != null) {
+        if (title != null ? !title.equals(tag.title) : tag.title != null) {
             return false;
         }
 

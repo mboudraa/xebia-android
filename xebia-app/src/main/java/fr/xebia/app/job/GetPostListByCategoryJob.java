@@ -1,10 +1,7 @@
 package fr.xebia.app.job;
 
 import android.content.Context;
-import com.path.android.jobqueue.Job;
-import fr.xebia.app.api.ApiProvider_;
-import fr.xebia.app.api.BlogApi;
-import fr.xebia.app.model.Post;
+import fr.xebia.app.model.blog.Post;
 
 import java.util.ArrayList;
 

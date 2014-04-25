@@ -1,6 +1,6 @@
 package fr.xebia.app.event;
 
-import fr.xebia.app.model.Post;
+import fr.xebia.app.model.blog.Post;
 
 public class PostRetrievedEvent {
 

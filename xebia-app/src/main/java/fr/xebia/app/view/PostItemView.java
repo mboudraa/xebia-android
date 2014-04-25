@@ -10,9 +10,9 @@ import android.widget.TextView;
 import com.squareup.picasso.Picasso;
 import fr.tkeunebr.gravatar.Gravatar;
 import fr.xebia.app.R;
-import fr.xebia.app.model.Author;
-import fr.xebia.app.model.Category;
-import fr.xebia.app.model.Post;
+import fr.xebia.app.model.blog.Author;
+import fr.xebia.app.model.blog.Category;
+import fr.xebia.app.model.blog.Post;
 import fr.xebia.app.widget.JustifiedTextView;
 import org.androidannotations.annotations.EViewGroup;
 import org.androidannotations.annotations.ViewById;
@@ -20,7 +20,7 @@ import org.androidannotations.annotations.ViewById;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 
-@EViewGroup(R.layout.blog_list_item)
+@EViewGroup(R.layout.post_list_item)
 public class PostItemView extends LinearLayout {
 
     @ViewById(R.id.post_category_container)

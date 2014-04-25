@@ -35,10 +35,10 @@ public class BaseActivity extends FragmentActivity {
     }
 
 
-    protected TextView getActionBarTitleView() {
-        int id = Resources.getSystem().getIdentifier("action_bar_title", "id", "android");
-        return (TextView) findViewById(id);
-    }
+//    protected TextView getActionBarTitleView() {
+//        int id = Resources.getSystem().getIdentifier("action_bar_title", "id", "android");
+//        return (TextView) findViewById(id);
+//    }
 
 
     protected ImageView getActionBarIconView() {
@@ -56,13 +56,13 @@ public class BaseActivity extends FragmentActivity {
 
         return mActionBarHeight;
     }
-
-    protected void setTitleAlpha(float alpha) {
-//        mAlphaForegroundColorSpan.setAlpha(alpha);
-//        mSpannableString.setSpan(mAlphaForegroundColorSpan, 0, mSpannableString.length(),
-//                                 Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
-//        getActionBar().setTitle(mSpannableString);
-        getActionBarTitleView().setAlpha(alpha);
-    }
+//
+//    protected void setTitleAlpha(float alpha) {
+////        mAlphaForegroundColorSpan.setAlpha(alpha);
+////        mSpannableString.setSpan(mAlphaForegroundColorSpan, 0, mSpannableString.length(),
+////                                 Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+////        getActionBar().setTitle(mSpannableString);
+//        getActionBarTitleView().setAlpha(alpha);
+//    }
 
 }

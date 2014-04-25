@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Xebia</string>
+
+    <integer name="num_column">1</integer>
 </resources>

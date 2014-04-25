@@ -3,7 +3,7 @@ package fr.xebia.app;
 import android.app.ActionBar;
 import fr.xebia.app.event.PostRetrievedEvent;
 import fr.xebia.app.job.GetPostJob;
-import fr.xebia.app.model.Post;
+import fr.xebia.app.model.blog.Post;
 import fr.xebia.app.view.PostView;
 import org.androidannotations.annotations.*;
 

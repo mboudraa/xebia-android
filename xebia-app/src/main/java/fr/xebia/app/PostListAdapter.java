@@ -1,12 +1,10 @@
 package fr.xebia.app;
 
 import android.content.Context;
-import android.text.Layout;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import fr.xebia.app.model.Post;
+import fr.xebia.app.model.blog.Post;
 import fr.xebia.app.view.PostItemView;
 import fr.xebia.app.view.PostItemView_;
 import org.androidannotations.annotations.EBean;

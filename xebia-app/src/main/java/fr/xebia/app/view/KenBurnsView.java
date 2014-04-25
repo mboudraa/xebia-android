@@ -37,7 +37,7 @@ public class KenBurnsView extends FrameLayout {
         @Override
         public void run() {
             swapImage();
-            mHandler.postDelayed(mSwapImageRunnable, mSwapMs - mFadeInOutMs*2);
+            mHandler.postDelayed(mSwapImageRunnable, mSwapMs - mFadeInOutMs * 2);
         }
     };
 
@@ -61,7 +61,7 @@ public class KenBurnsView extends FrameLayout {
 
     private void swapImage() {
         Log.d(TAG, "swapImage active=" + mActiveImageIndex);
-        if(mActiveImageIndex == -1) {
+        if (mActiveImageIndex == -1) {
             animate(mImageViews[0]);
             return;
         }
@@ -85,12 +85,17 @@ public class KenBurnsView extends FrameLayout {
         animatorSet.start();
     }
 
-    private void    start(View view, long duration, float fromScale, float toScale, float fromTranslationX, float fromTranslationY, float toTranslationX, float toTranslationY) {
+    private void start(View view, long duration, float fromScale, float toScale, float fromTranslationX, float fromTranslationY, float toTranslationX, float toTranslationY) {
         view.setScaleX(fromScale);
         view.setScaleY(fromScale);
         view.setTranslationX(fromTranslationX);
         view.setTranslationY(fromTranslationY);
-        ViewPropertyAnimator propertyAnimator = view.animate().translationX(toTranslationX).translationY(toTranslationY).scaleX(toScale).scaleY(toScale).setDuration(duration);
+        ViewPropertyAnimator propertyAnimator = view.animate()
+                                                    .translationX(toTranslationX)
+                                                    .translationY(toTranslationY)
+                                                    .scaleX(toScale)
+                                                    .scaleY(toScale)
+                                                    .setDuration(duration);
         propertyAnimator.start();
         Log.d(TAG, "starting Ken Burns animation " + propertyAnimator);
     }
@@ -110,7 +115,8 @@ public class KenBurnsView extends FrameLayout {
         float fromTranslationY = pickTranslation(view.getHeight(), fromScale);
         float toTranslationX = pickTranslation(view.getWidth(), toScale);
         float toTranslationY = pickTranslation(view.getHeight(), toScale);
-        start(view, this.mSwapMs, fromScale, toScale, fromTranslationX, fromTranslationY, toTranslationX, toTranslationY);
+        start(view, this.mSwapMs, fromScale, toScale, fromTranslationX, fromTranslationY, toTranslationX,
+              toTranslationY);
     }
 
     @Override
@@ -132,10 +138,11 @@ public class KenBurnsView extends FrameLayout {
     @Override
     protected void onFinishInflate() {
         super.onFinishInflate();
-        View view = inflate(getContext(), R.layout.view_kenburns, this);
 
-        mImageViews = new ImageView[1];
-        mImageViews[0] = (ImageView) view.findViewById(R.id.image0);
+        mImageViews = new ImageView[getChildCount()];
+        for(int i =0;i<getChildCount();i++){
+            mImageViews[i] = (ImageView) getChildAt(i);
+        }
     }
 
     private void fillImageViews() {

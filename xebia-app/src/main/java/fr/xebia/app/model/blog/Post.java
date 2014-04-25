@@ -1,4 +1,4 @@
-package fr.xebia.app.model;
+package fr.xebia.app.model.blog;
 
 
 import android.os.Parcel;

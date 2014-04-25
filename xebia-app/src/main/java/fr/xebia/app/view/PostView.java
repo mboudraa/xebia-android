@@ -16,6 +16,7 @@ import android.text.style.ImageSpan;
 import android.text.style.URLSpan;
 import android.util.AttributeSet;
 import android.util.Log;
+import android.util.TypedValue;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,9 +24,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import com.koushikdutta.ion.Ion;
 import fr.xebia.app.R;
-import fr.xebia.app.model.Attribute;
-import fr.xebia.app.model.ContentItem;
-import fr.xebia.app.model.Post;
+import fr.xebia.app.model.blog.Attribute;
+import fr.xebia.app.model.blog.ContentItem;
+import fr.xebia.app.model.blog.Post;
 import fr.xebia.app.widget.HtmlTagHandler;
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.EViewGroup;
@@ -132,9 +133,10 @@ public class PostView extends LinearLayout {
         LayoutParams layoutParams = new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT);
         layoutParams.setMargins(0, 0, 0, 0);
 
+        int testSizeRes = R.dimen.p_text_size;
+
         switch (type.toLowerCase()) {
             case "p":
-                view.setTextSize(13);
                 break;
 
             case "img":
@@ -146,40 +148,54 @@ public class PostView extends LinearLayout {
                                         0,
                                         0,
                                         0);
+
                 break;
 
             case "h1":
-                layoutParams.setMargins(0,
-                                        calculateMarginTop(R.dimen.h1_margin_top),
-                                        0,
-                                        getResources().getDimensionPixelSize(R.dimen.h1_margin_bottom));
+                layoutParams.setMargins(getDimensionPixel(R.dimen.h1_margin_left),
+                                        getChildCount() > 0 ? getDimensionPixel(R.dimen.h1_margin_top) : 0,
+                                        getDimensionPixel(R.dimen.h1_margin_right),
+                                        getDimensionPixel(R.dimen.h1_margin_bottom));
                 view.setTextColor(getResources().getColor(R.color.xebia));
+                testSizeRes = R.dimen.h1_text_size;
                 break;
 
             case "h2":
-                layoutParams.setMargins(0,
-                                        calculateMarginTop(R.dimen.h2_margin_top),
-                                        0,
-                                        getResources().getDimensionPixelSize(R.dimen.h2_margin_bottom));
+                layoutParams.setMargins(getDimensionPixel(R.dimen.h2_margin_left),
+                                        getChildCount() > 0 ? getDimensionPixel(R.dimen.h2_margin_top) : 0,
+                                        getDimensionPixel(R.dimen.h2_margin_right),
+                                        getDimensionPixel(R.dimen.h2_margin_bottom));
                 view.setTextColor(getResources().getColor(R.color.xebia));
+                testSizeRes = R.dimen.h2_text_size;
                 break;
 
             case "h3":
-                layoutParams.setMargins(0,
-                                        calculateMarginTop(R.dimen.h3_margin_top),
-                                        0,
-                                        getResources().getDimensionPixelSize(R.dimen.h3_margin_bottom));
+                layoutParams.setMargins(getDimensionPixel(R.dimen.h3_margin_left),
+                                        getChildCount() > 0 ? getDimensionPixel(R.dimen.h3_margin_top) : 0,
+                                        getDimensionPixel(R.dimen.h3_margin_right),
+                                        getDimensionPixel(R.dimen.h3_margin_bottom));
                 view.setTextColor(getResources().getColor(R.color.xebia));
+                testSizeRes = R.dimen.h3_text_size;
+                break;
+
+            case "h4":
+                layoutParams.setMargins(getDimensionPixel(R.dimen.h4_margin_left),
+                                        getChildCount() > 0 ? getDimensionPixel(R.dimen.h4_margin_top) : 0,
+                                        getDimensionPixel(R.dimen.h4_margin_right),
+                                        getDimensionPixel(R.dimen.h4_margin_bottom));
+                view.setTextColor(getResources().getColor(R.color.xebia));
+                testSizeRes = R.dimen.h4_text_size;
                 break;
 
         }
 
+        view.setTextSize(TypedValue.COMPLEX_UNIT_PX, getResources().getDimensionPixelSize(R.dimen.p_text_size));
         view.setLayoutParams(layoutParams);
         return view;
     }
 
-    private int calculateMarginTop(final int dimenRes){
-        return getChildCount() > 0 ? getResources().getDimensionPixelSize(dimenRes) : 0;
+    private int getDimensionPixel(final int dimenRes) {
+        return getResources().getDimensionPixelSize(dimenRes);
     }
 
     private CharSequence trimTrailingWhitespace(CharSequence source) {
