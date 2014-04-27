@@ -14,7 +14,7 @@ import org.robolectric.RobolectricTestRunner;
 import java.io.File;
 
 
-@RunWith(RobolectricTestRunner.class)
+//@RunWith(RobolectricTestRunner.class)
 public class ParcelableTest {
 
 //    PostList postList;

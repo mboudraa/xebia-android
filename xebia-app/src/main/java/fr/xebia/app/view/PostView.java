@@ -3,6 +3,7 @@ package fr.xebia.app.view;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.Matrix;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
@@ -15,6 +16,7 @@ import android.text.style.ForegroundColorSpan;
 import android.text.style.ImageSpan;
 import android.text.style.URLSpan;
 import android.util.AttributeSet;
+import android.util.DisplayMetrics;
 import android.util.Log;
 import android.util.TypedValue;
 import android.view.Gravity;
@@ -27,6 +29,9 @@ import fr.xebia.app.R;
 import fr.xebia.app.model.blog.Attribute;
 import fr.xebia.app.model.blog.ContentItem;
 import fr.xebia.app.model.blog.Post;
+import fr.xebia.app.prettify.PrettifyHighlighter;
+import fr.xebia.app.prettify.PrettifyParser;
+import fr.xebia.app.prettify.syntaxhighlight.Parser;
 import fr.xebia.app.widget.HtmlTagHandler;
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.EViewGroup;
@@ -38,10 +43,13 @@ import java.util.concurrent.ExecutionException;
 @EViewGroup
 public class PostView extends LinearLayout {
 
+
     @SystemService
     LayoutInflater mLayoutInflater;
 
     Post mPost;
+
+    Parser mParser = new PrettifyParser();
 
     public PostView(Context context) {
         super(context);
@@ -81,34 +89,41 @@ public class PostView extends LinearLayout {
     public void addContentItem(ContentItem item) {
         final String type = item.getType();
         final String text = item.getText();
+        final ArrayList<Attribute> attributes = item.getAttributes();
 
         TextView textView = inflateTextView(type);
         StringBuilder contentBuilder = new StringBuilder();
 
-        contentBuilder.append("<").append(type);
-        for (Attribute attribute : item.getAttributes()) {
-            contentBuilder.append(" ")
-                          .append(attribute.getKey())
-                          .append("=")
-                          .append("\"")
-                          .append(attribute.getValue())
-                          .append("\"");
+        if ("code".equalsIgnoreCase(type)) {
+            final String language = attributes.get(0).getValue();
+            contentBuilder.append(PrettifyHighlighter.highlight(language, text));
+        } else {
+            contentBuilder.append("<").append(type);
+            for (Attribute attribute : attributes) {
+                contentBuilder.append(" ")
+                              .append(attribute.getKey())
+                              .append("=")
+                              .append("\"")
+                              .append(attribute.getValue())
+                              .append("\"");
+            }
+            contentBuilder.append(">");
+
+            if (text != null) {
+                contentBuilder.append(text.trim());
+            }
+
+            contentBuilder.append("</").append(type).append(">");
         }
-        contentBuilder.append(">");
-
-
-        if (text != null) {
-            contentBuilder.append(text.trim());
-        }
-
-        contentBuilder.append("</").append(type).append(">");
 
 
         Spanned content = Html.fromHtml(contentBuilder.toString(), new Html.ImageGetter() {
             @Override
             public Drawable getDrawable(String source) {
                 Drawable drawable = null;
-                final double scale = 1;
+
+                final float scale = 1;
+
                 try {
                     Bitmap bmp = Ion.with(getContext()).load(source).asBitmap().get();
                     drawable = new BitmapDrawable(getResources(), bmp);
@@ -136,7 +151,12 @@ public class PostView extends LinearLayout {
         int testSizeRes = R.dimen.p_text_size;
 
         switch (type.toLowerCase()) {
-            case "p":
+            case "code":
+                view.setBackgroundColor(getResources().getColor(android.R.color.black));
+                view.setPadding(getDimensionPixel(R.dimen.code_padding),
+                                getDimensionPixel(R.dimen.code_padding),
+                                getDimensionPixel(R.dimen.code_padding),
+                                getDimensionPixel(R.dimen.code_padding));
                 break;
 
             case "img":
@@ -250,4 +270,5 @@ public class PostView extends LinearLayout {
         strBuilder.setSpan(clickable, start, end, flags);
         strBuilder.setSpan(new ForegroundColorSpan(getResources().getColor(R.color.xebia)), start, end, flags);
     }
+
 }

@@ -13,15 +13,17 @@ apply plugin: 'android'
 apply plugin: 'android-apt'
 apply plugin: 'android-test'
 
+
 repositories {
     mavenCentral()
     maven {
         url 'https://oss.sonatype.org/content/repositories/snapshots/'
-        maven {
-            url "http://files.couchbase.com/maven2/"
-        }
+    }
+    maven {
+        url "http://files.couchbase.com/maven2/"
     }
 }
+
 
 project.ext['src.test.dir'] = ['src/test']
 project.ext['module.iml.file'] = "xebia-app.iml"
@@ -125,73 +127,45 @@ apt {
     }
 }
 
+//antlr4 {
+//    tool {
+//        "fr.xebia.app.antlr" {
+//            visitor = true
+//            listener = false
+//        }
+//    }
+//}
 
 dependencies {
     apt "org.androidannotations:androidannotations:3.0.1"
-    compile "org.androidannotations:androidannotations-api:3.0.1"
-
-
+    compile 'org.androidannotations:androidannotations-api:3.0.1'
     compile 'com.squareup.okhttp:okhttp:2.0.0-SNAPSHOT'
     compile 'com.squareup.picasso:picasso:2.2.0'
     compile 'com.squareup.retrofit:retrofit:1.5.0'
     compile 'com.squareup.retrofit:converter-jackson:1.5.0'
-
     compile 'com.koushikdutta.ion:ion:1.2.4'
-
     compile 'com.path:android-priority-jobqueue:1.1.1'
     compile 'de.greenrobot:eventbus:2.2.0'
     compile 'com.github.chrisbanes.actionbarpulltorefresh:library:0.9.3'
     compile 'se.emilsjolander:sprinkles:1.2.4'
     compile 'com.android.support:support-v4:+'
     compile 'com.nhaarman.listviewanimations:library:2.6.0'
-
     compile 'org.jsoup:jsoup:1.7.3'
-
-    compile 'com.couchbase.cblite:CBLite:1.0.0-beta2'
+    compile 'uk.co.chrisjenx:calligraphy:0.7.+'
+//    compile 'org.antlr:antlr4-runtime:4.2.2'
+//    antlr4 'org.antlr:antlr4:4.2.2'
 
     compile fileTree(dir: 'libs', include: ['*.jar'])
-
-    androidTestCompile('com.jakewharton.espresso:espresso:1.1-r2') {
-        exclude group: 'com.squareup.dagger'
-    }
-    androidTestCompile('com.jakewharton.espresso:espresso-support-v4:1.1-r2') {
-        exclude group: 'com.android.support'
-    }
-
+    androidTestCompile 'com.jakewharton.espresso:espresso:1.1-r2'
+    androidTestCompile 'com.jakewharton.espresso:espresso-support-v4:1.1-r2'
     androidTestCompile 'com.squareup.spoon:spoon-client:1.1.0'
     androidTestCompile 'org.mockito:mockito-core:1.9.5'
     androidTestCompile 'com.squareup:fest-android:1.0.+'
-
-    androidTestCompile('junit:junit:4.11') {
-        exclude module: 'hamcrest-core'
-    }
-
+    androidTestCompile 'junit:junit:4.11'
     androidTestCompile 'org.assertj:assertj-core:1.6.0'
-
     androidTestCompile 'net.sf.twip:twip:3.3'
-
     //   Remove all maven dependencies
-    testCompile('org.robolectric:robolectric:2.2') {
-        exclude module: 'classworlds'
-        exclude module: 'maven-artifact'
-        exclude module: 'maven-artifact-manager'
-        exclude module: 'maven-error-diagnostics'
-        exclude module: 'maven-model'
-        exclude module: 'maven-plugin-registry'
-        exclude module: 'maven-profile'
-        exclude module: 'maven-project'
-        exclude module: 'maven-settings'
-        exclude module: 'nekohtml'
-        exclude module: 'plexus-container-default'
-        exclude module: 'plexus-interpolation'
-        exclude module: 'plexus-utils'
-        exclude module: 'wagon-file'
-        exclude module: 'wagon-http-lightweight'
-        exclude module: 'wagon-http-shared'
-        exclude module: 'wagon-provider-api'
-    }
-    //   Remove all maven dependencies
-    androidTestCompile('org.robolectric:robolectric:2.2') {
+    androidTestCompile('org.robolectric:robolectric:2.3-SNAPSHOT') {
         exclude module: 'classworlds'
         exclude module: 'maven-artifact'
         exclude module: 'maven-artifact-manager'

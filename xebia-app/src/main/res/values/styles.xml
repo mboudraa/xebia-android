@@ -1,16 +1,16 @@
 <resources>
 
-    <style name="AppDefaultTheme" parent="@android:style/Theme.Holo.Light">
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
         <item name="ptrHeaderStyle">@style/Widget.Custom.PtrHeader</item>
         <item name="android:actionBarStyle">@style/ActionBarStyle.Xebia</item>
+        <item name="android:textViewStyle">@style/AppTheme.Widget.TextView</item>
     </style>
 
 
-    <style name="AppTransparentTheme" parent="@android:style/Theme.Holo.Light">
+    <style name="AppTheme.Transparent">
         <item name="android:actionBarStyle">@style/ActionBarStyle.Xebia.Transparent</item>
         <item name="android:windowActionBarOverlay">true</item>
         <item name="android:windowContentOverlay">@null</item>
-        <item name="ptrHeaderStyle">@style/Widget.Custom.PtrHeader</item>
     </style>
 
 
@@ -27,6 +27,12 @@
         <item name="android:textColor">@android:color/white</item>
     </style>
 
+    <style name="AppTheme.Widget"/>
+
+    <style name="AppTheme.Widget.TextView" parent="android:Widget.Holo.Light.TextView">
+        <item name="fontPath">fonts/ubuntu.ttf</item>
+        <item name="android:fontFamily">fonts/ubuntu.ttf</item>
+    </style>
 
     <style name="Widget.Custom.PtrHeader" parent="android:Widget">
         <!-- The background of the header view -->

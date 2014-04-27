@@ -5,6 +5,7 @@ import android.graphics.RectF;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.view.View;
+import android.view.ViewTreeObserver;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.AbsListView;
 import android.widget.FrameLayout;
@@ -17,7 +18,6 @@ import fr.xebia.app.model.blog.Post;
 import fr.xebia.app.view.KenBurnsView;
 import org.androidannotations.annotations.*;
 import uk.co.senab.actionbarpulltorefresh.library.ActionBarPullToRefresh;
-import uk.co.senab.actionbarpulltorefresh.library.DefaultHeaderTransformer;
 import uk.co.senab.actionbarpulltorefresh.library.Options;
 import uk.co.senab.actionbarpulltorefresh.library.PullToRefreshLayout;
 import uk.co.senab.actionbarpulltorefresh.library.listeners.OnRefreshListener;
@@ -220,11 +220,7 @@ public class PostListActivity extends BaseActivity implements OnRefreshListener,
         }
     };
 
-    private class XebiaHeaderTransformer extends DefaultHeaderTransformer {
-        public XebiaHeaderTransformer() {
-            super();
-        }
-    }
+
 }
 
 

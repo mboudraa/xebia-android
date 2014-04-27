@@ -1,14 +1,16 @@
 package fr.xebia.app;
 
-import android.content.res.Resources;
+import android.content.Context;
+import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.util.TypedValue;
 import android.widget.ImageView;
-import android.widget.TextView;
 import android.widget.Toast;
 import de.greenrobot.event.EventBus;
 import fr.xebia.app.event.NetworkErrorEvent;
 import org.androidannotations.annotations.EActivity;
+import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
+import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 @EActivity
 public class BaseActivity extends FragmentActivity {
@@ -16,6 +18,18 @@ public class BaseActivity extends FragmentActivity {
     protected EventBus mEventBus = EventBus.getDefault();
 
     int mActionBarHeight;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        CalligraphyConfig.initDefault("fonts/ubuntu.ttf");
+
+    }
+
+    @Override
+    protected void attachBaseContext(Context newBase) {
+        super.attachBaseContext(new CalligraphyContextWrapper(newBase));
+    }
 
     @Override
     protected void onResume() {
